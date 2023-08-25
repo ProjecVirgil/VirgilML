@@ -7,7 +7,7 @@ import numpy as np
 import seaborn as sns
 from pandas import read_csv
 from sklearn.svm import SVC
-from sklearn.utils import shuffle 
+from sklearn.utils import shuffle
 from sklearn.model_selection import cross_val_score
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics import accuracy_score, confusion_matrix
@@ -32,30 +32,37 @@ class ML:
         self.test_features =  self.tfidf_vectorizer.transform(self.test_data)
 
         # Training the model
-        self.svm_model = SVC(kernel='linear', probability=True)  # Aggiungi 'probability=True' per calcolare le probabilità
-        self.calibrated_model = CalibratedClassifierCV(self.svm_model)  # Modello calibrato per le probabilità
+        self.svm_model = SVC(kernel='linear', probability=True)
+        self.calibrated_model = CalibratedClassifierCV(self.svm_model)
         self.calibrated_model.fit(self.train_features, self.train_labels)
 
         self.performance()
         self.save_model()
-        
+
     def visual_matrix(self):
         """
         Calculate the confusion matrix
         """
-        conf_matrix = confusion_matrix(ml.test_labels, ml.predictions, labels=ml.possible_value)        
+        conf_matrix = confusion_matrix(ml.test_labels, ml.predictions, labels=ml.possible_value)
         plt.figure(figsize=(10, 8))
-        sns.heatmap(conf_matrix, annot=True, fmt='d', cmap='Blues', xticklabels=ml.possible_value, yticklabels=ml.possible_value)
+        sns.heatmap(conf_matrix,
+                    annot=True,
+                    fmt='d',
+                    cmap='Blues',
+                    xticklabels=ml.possible_value,
+                    yticklabels=ml.possible_value)
         plt.xlabel('Predicted')
         plt.ylabel('Actual')
         plt.title('Confusion Matrix')
-        plt.show()       
+        plt.show()
     def visual_accuracy(self):
         """
         Create a graph for show the accuracy
         """
         plt.figure(figsize=(8, 6))
-        plt.bar(['Test Accuracy', 'Train Accuracy'], [ml.accuracy, ml.train_acc], color=['blue', 'green'])
+        plt.bar(['Test Accuracy', 'Train Accuracy'],
+                [ml.accuracy, ml.train_acc],
+                color=['blue', 'green'])
         plt.ylim(0, 1)
         plt.ylabel('Accuracy')
         plt.title('Test vs Train Accuracy')
@@ -71,7 +78,7 @@ class ML:
         self.train_acc = accuracy_score(self.train_labels, self.train_predictions)
         print("Test Accuracy:", self.accuracy)
         print("Train Accuracy:", self.train_acc)
-        
+
     def save_model(self):
         """
         Export the model
@@ -86,14 +93,18 @@ class ML:
         Calculates accuracy using cross-validation
         """
         num_folds = 5  # Number of fold for cross-validation
-        scores = cross_val_score(self.calibrated_model, self.train_features, self.train_labels, cv=num_folds)
+        scores = cross_val_score(
+            self.calibrated_model,
+            self.train_features,
+            self.train_labels,
+            cv=num_folds)
         for fold_num, score in enumerate(scores, start=1):
             print(f"Fold {fold_num} Accuracy: {score:.4f}")
 
          # Stampa la media delle precisioni su tutti i fold
         average_accuracy = scores.mean()
         print(f"Average Accuracy: {average_accuracy:.4f}")
-        
+
         # Crea un grafico per mostrare i punteggi ottenuti nei vari fold
         plt.figure(figsize=(10, 6))
         plt.bar(np.arange(1, num_folds + 1), scores, color='orange')
@@ -107,17 +118,21 @@ class ML:
     def load(self):
         """
         Load and shuffle the dataset
-        """ 
-        self.dataset_training = shuffle(read_csv(self.input_dirty, sep=';', encoding='utf-8'), random_state=42)
-        self.dataset_testing = shuffle(read_csv(self.testing_dirty, sep=';', encoding='utf-8'), random_state=42)
+        """
+        self.dataset_training = shuffle(
+            read_csv(self.input_dirty, sep=';', encoding='utf-8'),
+            random_state=42)
+        self.dataset_testing = shuffle(
+            read_csv(self.testing_dirty, sep=';', encoding='utf-8'),
+            random_state=42)
 
     def split(self):
         """
         Split the data in train and test
-        """ 
+        """
         self.train_data = self.dataset_training["Frasi"]
         self.test_data = self.dataset_testing["Frasi"]
-        
+
         self.train_labels = self.dataset_training["Contesto"]
         self.test_labels = self.dataset_testing["Contesto"]
 
@@ -132,7 +147,7 @@ class ML:
             _type_: _description_
         """
         example_features = self.tfidf_vectorizer.transform([sentence])
-        predicted_context2 = self.calibrated_model.predict(example_features)                        
+        predicted_context2 = self.calibrated_model.predict(example_features)
         return predicted_context2[0]
 
 ml = ML()
