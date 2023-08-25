@@ -3,7 +3,6 @@ import unicodedata
 import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
-# Frase da processare
 from pandas import read_csv
 
 nltk.download('punkt')
