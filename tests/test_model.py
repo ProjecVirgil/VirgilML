@@ -1,4 +1,4 @@
-from learning.old.learning import ML
+from learning.learning import ML
 modello = ML()
 
 def test_1():
