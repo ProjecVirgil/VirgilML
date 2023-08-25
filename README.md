@@ -78,4 +78,4 @@ As you can see from this data the model is not so efficient in some classes espe
 
 ## Conclusion 🔚
 
-In conclusione come primo approcio a questo mondo poteva andare peggio sono riuscito a costruire una base per continuare e migliorare lo sviluppo del progetto virgilio, probabilmente creero altri modelli sicuramente migliori e li usero anche per altre task sempre per migliorare l'uso e l'implementazione di virgilio, Inoltre sto gia sperimentando e provando i primi test con il modello su VirgilAI 
+In conclusion as a first approach to this world it could have been worse I managed to build a base to continue and improve the development of the virgil project, I will probably create other models surely better and I will also use them for other tasks always to improve the use and implementation of virgil, Besides I am already experimenting and trying the first tests with the model on VirgilAI
