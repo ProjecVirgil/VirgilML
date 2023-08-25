@@ -1,0 +1,786 @@
+Frasi;Contesto
+Che ore sono?;OR
+Che ora è adesso?;OR
+Mi sai dire che ora segna l'orologio?;OR
+Mi puoi dire che ore sono al momento?;OR
+Sapresti dirmi che ora è?;OR
+Potresti dirmi gentilmente che ore sono?;OR
+Scusa, mi sapresti dire che ore sono?;OR
+Per favore, potresti dirmi che ore segna l'orologio?;OR
+Avresti la cortesia di dirmi che ore sono?;OR
+Mi faresti la gentilezza di dirmi che ora è?;OR
+Scusi, potrebbe dirmi che ora segnano le lancette dell'orologio?;OR
+Mi scusi, mi saprebbe dire cortesemente che ore sono?;OR
+Le sarei grato se mi dicesse che ore segna attualmente l'orologio;OR
+Mi farebbe il favore di dirmi che ora è?;OR
+La prego mi saprebbe dire con precisione che ore sono?;OR
+Mi perdoni il disturbo, mi potrebbe dire che ore segna l'orologio?;OR
+Mi scusi, avrebbe la cortesia di dirmi che ore sono?;OR
+Le spiace dirmi che ore segnano le lancette dell'orologio?;OR
+Quanto manca a mezzogiorno?;OR
+Fra quanto saranno le 12:00?;OR
+Mancano molti minuti a mezzogiorno?;OR
+A che ora sarà mezzogiorno?;OR
+Fra quanto è previsto che suonerà mezzogiorno?;OR
+Sapresti dirmi quanto manca alle 12:00?;OR
+Potresti dirmi quanti minuti mancano a mezzogiorno?;OR
+Scusa, mi sapresti dire quanto manca a mezzogiorno?;OR
+Per favore, potresti dirmi fra quanto saranno le 12:00?;OR
+Avresti la cortesia di dirmi quanto manca a mezzogiorno?;OR
+Mi faresti la gentilezza di dirmi fra quanto sarà mezzogiorno?;OR
+Scusi, potrebbe dirmi quanto manca alle 12:00?;OR
+Mi scusi, mi saprebbe dire cortesemente quanto manca alle 12:00?;OR
+Le sarei grato se mi dicesse quanto manca a mezzogiorno;OR
+Mi farebbe il favore di dirmi fra quanto saranno le 12:00?;OR
+La prego mi saprebbe dire con precisione quanto manca a mezzogiorno?;OR
+Mi perdoni il disturbo, mi potrebbe dire fra quanto sarà mezzogiorno?;OR
+Mi scusi, avrebbe la cortesia di dirmi quanto manca alle 12:00?;OR
+Le spiace dirmi quanto manca alle 12:00?;OR
+A che ora saranno le 15:30?;OR
+Quanto manca alle 15:30 del pomeriggio?;OR
+Fra quanto saranno le 15:30 del pomeriggio?;OR
+Manca molto alle 15:30 di oggi pomeriggio?;OR
+Sapresti dirmi fra quanto saranno le 15:30 odierne?;OR
+Potresti dirmi quanti minuti mancano alle 15:30 di oggi?;OR
+Scusa, mi sapresti dire quanto manca alle 15:30 di oggi pomeriggio?;OR
+Per favore, potresti dirmi a che ora saranno le 15:30?;OR
+Avresti la cortesia di dirmi quanto manca alle 15:30?;OR
+Mi faresti la gentilezza di dirmi fra quanto saranno le 15:30?;OR
+Scusi, potrebbe dirmi quanto manca alle 15:30 del pomeriggio?;OR
+Mi scusi, mi saprebbe dire cortesemente quanto manca alle 15:30 odierne?;OR
+Le sarei grato se mi dicesse quanto manca alle 15:30;OR
+Mi farebbe il favore di dirmi fra quanto saranno le 15:30?;OR
+La prego mi saprebbe dire con precisione quanto manca alle 15:30 di oggi?;OR
+Mi perdoni il disturbo, mi potrebbe dire fra quanto saranno le 15:30 odierne?;OR
+Mi scusi, avrebbe la cortesia di dirmi quanto manca alle 15:30?;OR
+Le spiace dirmi quanto manca alle 15:30 di oggi pomeriggio?;OR
+Crea un promemoria per marzo 2023;EV
+Imposta un avviso per aprile 2023;EV
+Metti una sveglia per maggio 2023;EV
+Inserisci una notifica per giugno 2023;EV
+Fammi un memo per luglio 2023;EV
+Ricordami di prenotare le ferie ad agosto 2023;EV
+Crea un evento per settembre 2023;EV
+Imposta un reminder per ottobre 2023;EV
+Metti un promemoria per novembre 2023;EV
+Inserisci una notifica per dicembre 2023;EV
+Crea una sveglia per gennaio 2024;EV
+Ricordami di rinnovare l'assicurazione a febbraio 2024;EV
+Imposta un avviso per marzo 2024;EV
+Metti un evento per aprile 2024;EV
+Inserisci un memo per maggio 2024;EV
+Fammi un promemoria per giugno 2024;EV
+Ricordami di fare il tagliando auto a luglio 2024;EV
+Crea una notifica per agosto 2024;EV
+Imposta un reminder per settembre 2024;EV
+Metti una sveglia per ottobre 2024;EV
+Inserisci un avviso per novembre 2024;EV
+Crea un evento per dicembre 2024;EV
+Ricordami di rinnovare il passaporto a gennaio 2025;EV
+Imposta un memo per febbraio 2025;EV
+Metti un promemoria per marzo 2025;EV
+Inserisci una notifica per aprile 2025;EV
+Fammi un reminder per maggio 2025;EV
+Crea una sveglia per giugno 2025;EV
+Ricordami di prenotare le vacanze a luglio 2025;EV
+Imposta un avviso per agosto 2025;EV
+Metti un evento per settembre 2025;EV
+Ricordami il 5 aprile di pagare le bollette;EV
+Crea un promemoria per il 15 maggio;EV
+Imposta un avviso il 25 giugno;EV
+Metti una sveglia il 3 luglio;EV
+Inserisci una notifica il 12 agosto;EV
+Fammi un memo il 22 settembre;EV
+Ricordami il 1 ottobre di portare il cane dal veterinario;EV
+Crea un evento il 10 novembre;EV
+Imposta un reminder il 20 dicembre;EV
+Metti un promemoria il 28 gennaio;EV
+Inserisci una notifica il 6 febbraio;EV
+Crea una sveglia il 17 marzo;EV
+Ricordami il 25 aprile di pagare l'assicurazione;EV
+Imposta un avviso il 4 maggio;EV
+Metti un evento il 13 giugno;EV
+Inserisci un memo il 23 luglio;EV
+Fammi un promemoria il 31 agosto;EV
+Ricordami il 9 settembre di fare il tagliando all'auto;EV
+Crea una notifica il 19 ottobre;EV
+Imposta un reminder il 27 novembre;EV
+Quanto manca a febbraio?;MC
+Quanto manca al 10 agosto?;MC
+Quanto manca al 21 settembre 2034?;MC
+Quando inizia marzo?;MC
+Quanto manca al 5 giugno?;MC
+Fra quanto sarà il 27 luglio 2025?;MC
+Quando arriva aprile?;MC
+Quanto manca al 12 ottobre?;MC
+Fra quanto sarà il 3 novembre 2045?;MC
+Quando inizia maggio?;MC
+Quanto manca al 17 settembre?;MC
+Fra quanto sarà il 29 dicembre 2050?;MC
+Quando arriva giugno?;MC
+Quanto manca al 24 ottobre?;MC
+Fra quanto sarà il 15 gennaio 2033?;MC
+Quando inizia luglio?;MC
+Quanto manca al 1 novembre?;MC
+Fra quanto sarà il 26 febbraio 2040?;MC
+Quando arriva agosto?;MC
+Quanto manca al 8 dicembre?;MC
+Fra quanto sarà il 7 marzo 2048?;MC
+Quando inizia settembre?;MC
+Quanto manca al 15 novembre?;MC
+Fra quanto sarà il 18 aprile 2038?;MC
+Quando arriva ottobre?;MC
+Quanto manca al 22 dicembre?;MC
+Fra quanto sarà il 9 maggio 2046?;MC
+Quando inizia novembre?;MC
+Quanto manca al 29 gennaio?;MC
+Fra quanto sarà il 1 giugno 2044?;MC
+Quando arriva dicembre?;MC
+Quanto manca al 5 febbraio?;MC
+Fra quanto sarà il 12 luglio 2042?;MC
+Quando inizia gennaio?;MC
+Quanto manca al 19 marzo?;MC
+Fra quanto sarà il 26 agosto 2049?;MC
+Quando arriva febbraio?;MC
+Quanto manca al 2 aprile?;MC
+Fra quanto sarà il 9 settembre 2047?;MC
+Quando inizia marzo?;MC
+Quanto manca al 16 maggio?;MC
+Fra quanto sarà il 23 ottobre 2043?;MC
+Quando arriva aprile?;MC
+Quanto manca al 30 giugno?;MC
+Fra quanto sarà il 7 novembre 2041?;MC
+Quando inizia maggio?;MC
+Quanto manca al 14 luglio?;MC
+Fra quanto sarà il 21 dicembre 2048?;MC
+Quando arriva giugno?;MC
+Quanto manca al 27 agosto?;MC
+Fra quanto sarà il 4 febbraio 2045?;MC
+Quando inizia luglio?;MC
+Quanto manca all'11 settembre?;MC
+Fra quanto sarà il 18 marzo 2042?;MC
+Quando arriva agosto?;MC
+Quanto manca al 25 ottobre?;MC
+Fra quanto sarà il 1 maggio 2050?;MC
+Quando inizia settembre?;MC
+Quanto manca al 8 novembre?;MC
+Fra quanto sarà il 15 giugno 2047?;MC
+Quando arriva ottobre?;MC
+Quanto manca al 22 dicembre?;MC
+Fra quanto sarà il 29 luglio 2043?;MC
+Quando inizia novembre?;MC
+Quanto manca al 5 gennaio?;MC
+Fra quanto sarà il 12 agosto 2049?;MC
+Che giorno è oggi?;GDS
+Che giorno è domani?;GDS
+Che giorno è il 10 agosto 2022?;GDS
+Che giorno è Pasqua quest'anno?;GDS
+Che giorno è dopodomani?;GDS
+Che giorno sarà il 15 settembre 2025?;GDS
+Che giorno è fra due giorni?;GDS
+Che giorno sarà il 29 febbraio 2024?;GDS
+Che giorno è il 25 dicembre?;GDS
+Che giorno è fra tre giorni?;GDS
+Che giorno sarà il 31 ottobre 2023?;GDS
+Che giorno è tra quattro giorni?;GDS
+Che giorno sarà il 2 gennaio 2026?;GDS
+Che giorno è la prossima settimana di martedì?;GDS
+Che giorno è tra cinque giorni?;GDS
+Che giorno sarà il 19 aprile 2028?;GDS
+Che giorno è dopo il weekend?;GDS
+Che giorno sarà il 6 agosto 2027?;GDS
+Che giorno è il primo giorno del prossimo mese?;GDS
+Che giorno è tra sei giorni?;GDS
+Che giorno sarà il 14 febbraio 2030?;GDS
+Che giorno è la settimana prossima di venerdì?;GDS
+Che giorno sarà il 27 maggio 2029?;GDS
+Che giorno è tra sette giorni?;GDS
+Che giorno sarà l'8 marzo 2031?;GDS
+Che giorno è dopo sette giorni?;GDS
+Che giorno sarà il 20 luglio 2032?;GDS
+Che giorno è tra otto giorni?;GDS
+Che giorno sarà il 3 settembre 2033?;GDS
+Che giorno è dopo otto giorni?;GDS
+Che giorno sarà il 25 novembre 2034?;GDS
+Che giorno è tra nove giorni?;GDS
+Che giorno sarà il 7 gennaio 2035?;GDS
+Che giorno è dopo nove giorni?;GDS
+Che giorno sarà il 18 aprile 2036?;GDS
+Che giorno è tra dieci giorni?;GDS
+Che giorno sarà il 30 giugno 2037?;GDS
+Che giorno è dopo dieci giorni?;GDS
+Che giorno sarà il 12 agosto 2038?;GDS
+Che giorno è tra undici giorni?;GDS
+Che giorno sarà il 23 settembre 2039?;GDS
+Che giorno è dopo undici giorni?;GDS
+Che giorno sarà il 4 novembre 2040?;GDS
+Che giorno è tra dodici giorni?;GDS
+Che giorno sarà il 16 dicembre 2041?;GDS
+Che giorno è dopo dodici giorni?;GDS
+Che giorno sarà il 27 gennaio 2042?;GDS
+Che giorno è tra tredici giorni?;GDS
+Che giorno sarà il 10 marzo 2043?;GDS
+Che giorno è dopo tredici giorni?;GDS
+Che giorno sarà il 21 aprile 2044?;GDS
+Che giorno è tra quattordici giorni?;GDS
+Che giorno sarà il 2 giugno 2045?;GDS
+Che giorno è dopo quattordici giorni?;GDS
+Che giorno sarà il 14 luglio 2046?;GDS
+Che giorno è tra quindici giorni?;GDS
+Che giorno sarà il 25 agosto 2047?;GDS
+Che giorno è dopo quindici giorni?;GDS
+Che giorno sarà il 6 ottobre 2048?;GDS
+Che giorno è tra sedici giorni?;GDS
+Che giorno sarà il 17 novembre 2049?;GDS
+Che giorno è dopo sedici giorni?;GDS
+Dimmi le ultime novità;NE
+Quali sono le ultime news?;NE
+Hai aggiornamenti recenti da raccontarmi?;NE
+Fammi sapere gli ultimi fatti di attualità;NE
+Raccontami le notizie dell'ultima ora;NE
+Cos'è successo di recente che dovrei sapere?;NE
+Puoi riassumermi le principali news di oggi?;NE
+C'è qualche fatto di rilievo accaduto nelle ultime ore?;NE
+Aggiornami sulle ultimissime notizie;NE
+hai novita da raccontarmi?;NE
+Dammi un riepilogo delle news più importanti;NE
+Puoi fare il punto sulle ultime notizie?;NE
+Cosa è accaduto di rilevante nelle ultime ore?;NE
+Mettimi al corrente delle principali novità;NE
+Fammi un sunto delle news recenti;NE
+C'è qualcosa di importante che devo sapere?;NE
+Dimmi quali sono gli ultimi aggiornamenti;NE
+Aggiornami con le notizie dell'ultim'ora;NE
+Dammi un breve riassunto delle ultime news;NE
+Puoi riferirmi gli ultimi fatti salienti?;NE
+Cos'è successo di interessante di recente?;NE
+Hai notizie dell'ultimo minuto per me?;NE
+Dimmi le novità degli ultimi giorni;NE
+Ci sono fatti rilevanti che non conosco?;NE
+Fammi un recap delle principali notizie di oggi;NE
+Quali sono le breaking news del momento?;NE
+Puoi riassumere le news più importanti di oggi?;NE
+C'è qualcosa di nuovo che dovrei sapere?;NE
+Aggiornami sulle ultime novità;NE
+Hai qualche notizia dell'ultima ora?;NE
+Raccontami gli ultimi sviluppi;NE
+Mettimi al corrente delle news di oggi;NE
+C'è qualche fatto recente rilevante che ignoro?;NE
+Riassumimi le notizie principali delle ultime ore;NE
+Fammi un sunto delle ultimissime novità;NE
+Quali sono le notizie di rilievo di oggi?;NE
+Puoi riferirmi le news più importanti di adesso?;NE
+Novita sul fronte politico?;NE
+Dimmi le ultime novità su Bitcoin;NE
+Ci sono aggiornamenti recenti sulla pandemia?;NE
+Ultime news dal mondo dello sport?;NE
+Notizie di rilievo nel campo della tecnologia?;NE
+Sviluppi recenti sulla crisi internazionale?;NE
+Aggiornamenti di oggi sull'economia?;NE
+Novità rilevanti nel settore finanziario?;NE
+Qualche fatto di attualità nel mondo dello spettacolo?;NE
+Le ultime sul tema dei cambiamenti climatici?;NE
+Notizie recenti dal fronte della ricerca scientifica?;NE
+Gli ultimi aggiornamenti sulla situazione sanitaria nazionale?;NE
+Le news di oggi sull'andamento dei mercati?;NE
+Crea un timer di 2 ore e 20 minuti;TM
+Metti un timer di 30 secondi;TM
+Attiva un timer di 1 ora;TM
+Avvia un timer di 5 minuti;TM
+Imposta un countdown di 15 secondi;TM
+Programma un timer di 3 minuti;TM
+Attiva un conto alla rovescia di 1 minuto;TM
+Configura un timer di 30 minuti;TM
+Crea un conto alla rovescia di 10 secondi;TM
+Pianifica un timer di 45 secondi;TM
+Avvia un cronometro di 20 minuti;TM
+Imposta un conteggio di 5 minuti;TM
+Metti una sveglia per 10 ore;TM
+Crea un allarme per 1 giorno;TM
+Programma un promemoria per 5 giorni;TM
+Pianifica un conto alla rovescia di 1 settimana;TM
+Configura un timer di 2 ore;TM
+Avvia un cronometro di 30 minuti;TM
+Imposta una sveglia per 15 minuti;TM
+Crea un allarme per 10 secondi;TM
+Metti un timer di 20 ore;TM
+Attiva un promemoria per 2 giorni;TM
+Avvia un conto alla rovescia di 5 ore;TM
+Imposta un cronometro di 1 minuto;TM
+Programma una sveglia per 30 secondi;TM
+Attiva un conteggio di 10 minuti;TM
+Configura un allarme per 2 settimane;TM
+Crea un promemoria per 1 mese;TM
+Pianifica un timer di 5 ore;TM
+Avvia un conto alla rovescia di 15 minuti;TM
+Imposta una sveglia per 20 secondi;TM
+Metti un cronometro di 1 giorno;TM
+Crea un allarme per 10 minuti;TM
+Programma un promemoria per 2 ore;TM
+Pianifica un conto alla rovescia di 30 minuti;TM
+Configura un timer di 5 secondi;TM
+Avvia un cronometro di 1 settimana;TM
+Imposta una sveglia per 2 minuti;TM
+Crea un allarme per 20 ore;TM
+Metti un timer di 15 secondi;TM
+Attiva un promemoria per 10 minuti;TM
+Avvia un conto alla rovescia di 1 giorno;TM
+Imposta un cronometro di 5 giorni;TM
+Programma una sveglia per 2 ore;TM
+Attiva un conteggio di 30 minuti;TM
+Configura un allarme per 10 secondi;TM
+Che tempo fa?;MT
+Che temperatura c'è fuori?;MT
+Qual è la situazione meteo?;MT
+Puoi dirmi le condizioni atmosferiche attuali?;MT
+Mi dici che clima c'è in questo momento?;MT
+Cosa posso aspettarmi dal meteo di oggi?;MT
+Vorrei sapere le previsioni del tempo;MT
+Qual è il report meteo del giorno?;MT
+Mi racconti un po' del meteo odierno?;MT
+Hai informazioni sul meteo di quest'area?;MT
+Che previsioni ci sono per il clima?;MT
+Come si presenta il meteo per le prossime ore?;MT
+Posso avere una panoramica delle condizioni meteorologiche?;MT
+C'è qualche novità sul meteo di oggi?;MT
+Che tipo di clima dobbiamo affrontare?;MT
+Qual è l'andamento del meteo attualmente?;MT
+Hai aggiornamenti sulle condizioni esterne?;MT
+Mi sapresti dire che tempo fa ora?;MT
+Saresti così gentile da dirmi la temperatura esterna?;MT
+C'è qualche cambiamento nel meteo di oggi?;MT
+Quali sono le previsioni per le prossime giornate?;MT
+Posso ottenere un resoconto sulle temperature attuali?;MT
+Che clima ci aspetta nelle prossime ore?;MT
+Vorrei essere aggiornato sulle condizioni atmosferiche;MT
+Mi dici che temperatura c'è all'esterno?;MT
+Cosa mi puoi dire sulle previsioni meteo?;MT
+Come si presenta il meteo in questo momento?;MT
+Che condizioni atmosferiche dobbiamo affrontare?;MT
+Qual è il bollettino meteo attuale?;MT
+Hai qualche informazione sulle temperature esterne?;MT
+Saresti così gentile da fornirmi il resoconto meteo?;MT
+Mi racconti un po' del clima di oggi?;MT
+Che previsioni ci sono per il meteo di oggi?;MT
+Qual è l'andamento delle temperature in questo momento?;MT
+Cosa possiamo aspettarci dalle condizioni meteo?;MT
+Puoi darmi un'idea delle previsioni per il clima?;MT
+Quali sono le attuali condizioni meteo?;MT
+Mi dici che temperatura fa fuori?;MT
+Vorrei conoscere le previsioni del tempo per oggi;MT
+Come si sta presentando il clima oggi?;MT
+Qual è il report sul meteo attuale?;MT
+Mi sapresti dire che tempo fa fuori?;MT
+Che tipo di clima è previsto per oggi?;MT
+Posso avere una panoramica delle temperature attuali?;MT
+C'è qualche aggiornamento sulle condizioni meteorologiche?;MT
+Mi puoi aggiornare sul meteo di questa zona?;MT
+Quali sono le previsioni per le prossime ore?;MT
+Mi dici la temperatura attuale?;MT
+Vorrei sapere come si presenta il meteo ora;MT
+Che clima è previsto nelle prossime ore?;MT
+Quali sono le attuali condizioni atmosferiche?;MT
+Puoi darmi il bollettino meteo per oggi?;MT
+C'è qualche novità sulle temperature esterne?;MT
+Mi racconti un po' del meteo di questa giornata?;MT
+Che previsioni ci sono per il clima di oggi?;MT
+Qual è l'andamento meteo in questo istante?;MT
+Hai informazioni sulle condizioni del tempo?;MT
+Mi dici la temperatura esterna?;MT
+Saresti così gentile da darmi un resoconto del meteo?;MT
+Quali sono le previsioni meteo per oggi?;MT
+Come si sta presentando il clima in questo momento?;MT
+Che condizioni atmosferiche ci sono ora?;MT
+Vorrei sapere che temperature ci sono fuori;MT
+Qual è il report delle previsioni meteo?;MT
+Mi puoi dire che tipo di clima c'è ora?;MT
+Che clima è previsto per la giornata?;MT
+Posso avere un'idea delle temperature attuali?;MT
+C'è qualche cambiamento nelle condizioni meteo?;MT
+Mi racconti un po' del meteo attuale?;MT
+Che previsioni ci sono per il tempo di oggi?;MT
+Qual è l'andamento delle temperature in queste ore?;MT
+Come si sta presentando il meteo in queste ore?;MT
+Qual è il bollettino meteo per la giornata?;MT
+Mi puoi dire che condizioni atmosferiche ci sono ora?;MT
+Che tipo di clima è atteso per oggi?;MT
+Quali sono le previsioni meteo in queste ore?;MT
+Mi racconti un po' delle temperature odiere?;MT
+Che clima è previsto nelle prossime ore?;MT
+Qual è il report sul meteo di oggi?;MT
+Puoi darmi un'idea delle condizioni atmosferiche attuali?;MT
+C'è qualche novità sulle previsioni meteo?;MT
+Mi puoi aggiornare sul meteo di questa giornata?;MT
+Avvia il pezzo di Rihanna;MU
+Inizia la canzone di Madonna;MU
+Metti il disco di Beyoncé;MU
+Riproduci l'album di Katy Perry;MU
+Lancia il concerto di Bruno Mars;MU
+Parte il live di Billie Eilish;MU
+Avvia la traccia di Dua Lipa;MU
+Mettimi su The Weeknd;MU
+Fammi ascoltare Post Malone;MU
+Partenza brano di Justin Timberlake;MU
+Avvia il pezzo di Shakira;MU
+Inizia la canzone di Christina Aguilera;MU
+Metti il disco di Britney Spears;MU
+Riproduci l'album di Lady Gaga;MU
+Lancia il concerto di Rihanna;MU
+Parte il live di Ariana Grande;MU
+Avvia la traccia di Taylor Swift;MU
+Mettimi su Alicia Keys;MU
+Fammi ascoltare Beyoncé;MU
+Partenza brano di Adele;MU
+Avvia il pezzo di Sia;MU
+Inizia la canzone di Pink;MU
+Metti il disco di Katy Perry;MU
+Riproduci l'album di Selena Gomez;MU
+Lancia il concerto di Demi Lovato;MU
+Parte il live di Miley Cyrus;MU
+Avvia la traccia di Nicki Minaj;MU
+Mettimi su Cardi B;MU
+Fammi ascoltare Camila Cabello;MU
+Partenza brano di Dua Lipa;MU
+Avvia il pezzo di Halsey;MU
+Inizia la canzone di Bebe Rexha;MU
+Metti il disco di Anne-Marie;MU
+Riproduci l'album di Ellie Goulding;MU
+Saresti così cortese da dirmi che ore segna l'orologio?;OR
+Fra quanto saranno le 13:00 di oggi?;OR
+Mancano molti minuti alla una del pomeriggio?;OR
+Crea una notifica per il 10 maggio 2025 alle 15:00;EV
+Ricordami il 2 giugno di richiamare Mario;EV
+Imposta un promemoria per il compleanno di Luisa il 18 settembre;EV
+Metti una sveglia per l'appuntamento con il dentista il 5 ottobre alle 10:30;EV
+Inserisci un avviso per pagare la rata del mutuo il 27 novembre;EV
+Quando inizia aprile 2024?;MC
+Fra quanto sarà il 1 luglio 2026?;MC
+Quanto manca a Natale 2022?;MC
+Che giorno sarà tra sette giorni?;GDS
+Che giorno è dopo dieci giorni?;GDS
+Quali sono le ultime notizie di politica?;NE
+Mi racconti le news recenti dello sport;NE
+Fammi un riepilogo delle ultime novità tecnologiche;NE
+Metti un timer di 5 minuti;TM
+Avvia un countdown di 30 secondi;TM
+Pianifica una sveglia per 1 ora;TM
+Che clima dobbiamo aspettarci per oggi?;MT
+Quali sono le previsioni meteo per domani?;MT
+Hai informazioni sulle temperature di questi giorni?;MT
+Metti su il nuovo disco di Ed Sheeran;MU
+Fammi ascoltare l'ultimo singolo di Justin Bieber;MU
+Avvia la playlist rilassante;MU
+Qual è la situazione meteorologica in questo momento?;MT
+Puoi darmi un aggiornamento sulle condizioni atmosferiche?;MT
+Saresti così gentile da dirmi che tipo di clima c'è oggi?;MT
+Vorrei sapere quale tempo fa al momento;MT
+Mi puoi dire com'è il meteo oggi?;MT
+Che tipi di condizioni meteorologiche ci sono adesso?;MT
+Qual è l'andamento delle temperature in questo momento?;MT
+Puoi farmi sapere che temperatura fa fuori?;MT
+Cosa posso aspettarmi dal clima all'aperto?;MT
+Che tipo di tempo è presente al di fuori?;MT
+Quali sono le previsioni climatiche attuali?;MT
+Potresti indicarmi il clima del giorno?;MT
+Mi puoi comunicare le condizioni atmosferiche del momento?;MT
+Che meteo c'è fuori?;MT
+Qual è la temperatura esterna attuale?;MT
+Cosa dici delle condizioni meteo in questo istante?;MT
+Vorrei sapere come si presenta il tempo oggi;MT
+Che temperatura è registrata all'esterno?;MT
+Puoi darmi un resoconto sulle condizioni del tempo?;MT
+Che tipo di clima abbiamo in queste ore?;MT
+Quali sono le attuali condizioni meteorologiche?;MT
+Mi puoi dire che temperatura è là fuori?;MT
+Qual è l'andamento climatico al momento?;MT
+Cosa c'è da aspettarsi in termini di meteo oggi?;MT
+Potresti farmi un'idea del clima attuale?;MT
+Che tempo fa fuori?;MT
+Qual è la temperatura esterna in questo istante?;MT
+Mi puoi comunicare le attuali condizioni del meteo?;MT
+Come si presenta il clima nel momento presente?;MT
+Vorrei sapere che temperatura abbiamo oggi;MT
+Qual è l'orario attuale?;OR
+Mi puoi dire che ora è?;OR
+Saresti così gentile da indicarmi l'orologio?;OR
+Che ore segna il tuo orologio?;OR
+Potresti comunicarmi l'ora del momento?;OR
+Vorrei sapere l'orario adesso;OR
+Puoi dirmi che ora è secondo te?;OR
+Che orologio stai mostrando?;OR
+Qual è l'ora esatta secondo il tuo orologio?;OR
+Mi puoi dare l'orario attuale?;OR
+Saresti così gentile da farmi sapere l'ora?;OR
+Vorrei conoscere l'orario corrente;OR
+Potresti indicarmi che ore sono?;OR
+Puoi comunicarmi l'orario in questo istante?;OR
+Che ora indica il tuo orologio?;OR
+Qual è l'orario del tuo orologio?;OR
+Mi puoi dare l'ora esatta?;OR
+Saresti così gentile da dirmi l'orologio?;OR
+Vorrei sapere che ora stiamo segnando;OR
+Puoi farmi sapere l'orario attuale?;OR
+Che orario è secondo te?;OR
+Qual è l'ora sulla tua lancetta?;OR
+Potresti comunicarmi che ora è adesso?;OR
+Mi puoi dire l'orario attuale?;OR
+Saresti così gentile da dirmi l'ora esatta?;OR
+Vorrei conoscere l'orario corrente;OR
+Puoi dirmi che ora è secondo il tuo orologio?;OR
+Che orologio sta indicando l'orario?;OR
+Qual è l'orario che stai visualizzando?;OR
+Mi puoi dare l'ora del momento?;OR
+Qual è la data che segue dopodomani?;GDS
+Mi puoi dire che giorno sarà tra due giorni?;GDS
+Saresti così gentile da indicarmi quale giorno cadrà dopodomani?;GDS
+Che giorno della settimana è dopo domani?;GDS
+Qual è la data successiva a dopodomani?;GDS
+Potresti dirmi quale sarà il giorno tra due giorni?;GDS
+Vorrei sapere che giorno si avrà dopodomani;GDS
+Puoi indicarmi che giorno della settimana seguirà dopodomani?;GDS
+Che giorno verrà dopo domani?;GDS
+Qual è il giorno che segue dopodomani?;GDS
+Mi puoi comunicare che giorno è tra due giorni?;GDS
+Saresti così gentile da farmi sapere quale giorno verrà dopo domani?;GDS
+Vorrei sapere che giorno cadrà dopodomani;GDS
+Puoi dirmi che giorno della settimana è il 12 dicembre 2023?;GDS
+Qual è il giorno successivo a dopodomani?;GDS
+Mi puoi indicare che giorno è il 12 dicembre 2023?;GDS
+Saresti così gentile da dirmi che giorno è dopo domani?;GDS
+Che giorno è previsto il 12 dicembre 2023?;GDS
+Qual è il giorno che segue il 12 dicembre 2023?;GDS
+Puoi comunicarmi che giorno si avrà dopo domani?;GDS
+Vorrei sapere quale giorno cadrà il 12 dicembre 2023;GDS
+Che giorno della settimana cadrà dopo domani?;GDS
+Qual è il giorno previsto il 12 dicembre 2023?;GDS
+Mi puoi dire che giorno verrà dopo domani?;GDS
+Saresti così gentile da indicarmi che giorno è previsto il 12 dicembre 2023?;GDS
+Qual è il giorno che segue il 12 dicembre 2023?;GDS
+Puoi farmi sapere che giorno è il 12 dicembre 2023?;GDS
+Vorrei sapere che giorno della settimana è dopo domani;GDS
+Che giorno è tra due giorni?;GDS
+Qual è il giorno successivo a il 12 dicembre 2023?;GDS
+Fammi conoscere le ultime notizie;NW
+Puoi dirmi quali sono le novità più recenti?;NW
+Saresti così gentile da farmi sapere le notizie più aggiornate?;NW
+Vorrei essere informato sulle ultime notizie;NW
+Che tipo di novità ci sono al momento?;NW
+Dimmi che cosa c'è di nuovo nelle notizie;NW
+Puoi condividere le ultime notizie con me?;NW
+Quali sono gli ultimi sviluppi nelle notizie?;NW
+Vorrei sapere quali sono gli ultimi avvenimenti;NW
+Saresti così gentile da dirmi le ultime notizie?;NW
+Dimmi cosa è accaduto di recente nelle notizie;NW
+Che cosa è successo di nuovo?;NW
+Quali sono le notizie più fresche?;NW
+Puoi informarmi sulle ultime novità?;NW
+Vorrei conoscere gli ultimi eventi nelle notizie;NW
+Saresti così gentile da condividere le ultime notizie?;NW
+Dimmi gli ultimi aggiornamenti;NW
+Quali sono le informazioni più recenti?;NW
+Puoi dirmi che cosa è accaduto di fresco nelle notizie?;NW
+Vorrei sapere quali sono gli ultimi fatti;NW
+Saresti così gentile da fornirmi le ultime notizie?;NW
+Dimmi le ultime novità;NW
+Quali sono le ultime informazioni disponibili?;NW
+Puoi condividere con me gli ultimi sviluppi nelle notizie?;NW
+Vorrei essere aggiornato sulle ultime notizie;NW
+Saresti così gentile da dirmi quali sono le notizie più recenti?;NW
+Dimmi gli eventi più nuovi;NW
+Quali sono le notizie fresche?;NW
+Puoi informarmi sulle ultime situazioni?;NW
+Vorrei sapere le ultime notizie disponibili;NW
+Crea un evento nel calendario per domani;EV
+Metti un promemoria nell'agenda per la giornata successiva;EV
+Imposta un appuntamento nel mio calendario;EV
+Vorrei fissare un impegno per domani;EV
+Crea un evento per il giorno seguente;EV
+Metti un promemoria per la prossima giornata nel mio calendario;EV
+Imposta un appuntamento nel calendario;EV
+Vorrei fissare un evento per domani;EV
+Crea un promemoria per la giornata di domani;EV
+Metti un appuntamento nel mio calendario;EV
+Imposta un promemoria per il prossimo giorno;EV
+Fissa un appuntamento per domani;EV
+Crea un evento che ricordi domani;EV
+Metti un promemoria nell'agenda per il giorno seguente;EV
+Imposta un appuntamento nel calendario per domani;EV
+Fissa un evento per la giornata di domani;EV
+Crea un promemoria per il giorno successivo;EV
+Metti un appuntamento nel mio calendario per domani;EV
+Imposta un evento che si attivi domani;EV
+Fissa un promemoria per il prossimo giorno;EV
+Crea un appuntamento per la giornata successiva;EV
+Metti un evento nel mio calendario per domani;EV
+Imposta un promemoria che scatti domani;EV
+Fissa un appuntamento nel calendario per la prossima giornata;EV
+Crea un evento che ricordi il giorno seguente;EV
+Metti un promemoria nell'agenda per domani;EV
+Imposta un appuntamento che si attivi domani;EV
+Fissa un evento per il giorno di domani;EV
+Crea un promemoria nel calendario per la giornata successiva;EV
+Metti un appuntamento nel mio calendario che ricordi domani;EV
+Quanto tempo manca per le 12 e mezza?;MC
+Puoi dirmi quanto manca alle 12:30?;MC
+Saresti così gentile da dirmi quanto tempo manca a mezzogiorno e mezzo?;MC
+Vorrei sapere quanto tempo ci separa dalle 12:30;MC
+Che distanza c'è dall'ora di pranzo alle 12 e mezza?;MC
+Dimmi quanto manca all'intervallo di mezzogiorno e mezzo;MC
+Quanto tempo manca al mezzogiorno e trenta?;MC
+Mi puoi dire quanto ci separa dalle 12:30?;MC
+Quanto tempo manca alla mezzanotte e trenta?;MC
+Saresti così gentile da indicarmi quanto manca alle 12:30?;MC
+Vorrei sapere quanto tempo manca alla metà del giorno e mezzo;MC
+Che distanza c'è dall'ora attuale alle 12 e mezza?;MC
+Quanto manca al 12 agosto 2002?;MC
+Puoi dirmi quanto tempo manca al 12 agosto 2002?;MC
+Saresti così gentile da indicarmi quanto tempo ci separa dal 12 agosto 2002?;MC
+Vorrei sapere quanto tempo manca al 12 agosto 2002;MC
+Che distanza c'è tra l'attuale data e il 12 agosto 2002?;MC
+Dimmi quanto manca al 12 agosto 2002;MC
+Quanto tempo manca al 12 agosto 2002 secondo il tuo orologio?;MC
+Mi puoi dire quanto tempo manca al 12 agosto 2002?;MC
+Quanto tempo manca al 12 agosto 2002?;MC
+Saresti così gentile da dirmi quanto tempo ci separa dal 12 agosto 2002?;MC
+Vorrei sapere quanto tempo manca al 12 agosto 2002;MC
+Che distanza c'è tra l'attuale data e il 12 agosto 2002?;MC
+Dimmi quanto manca al 12 agosto 2002;MC
+Quanto tempo manca al 12 agosto 2002 secondo il tuo orologio?;MC
+Mi puoi dire quanto tempo manca al 12 agosto 2002?;MC
+Quanto tempo manca al 12 agosto 2002?;MC
+Imposta il volume al 20%;VL
+Alza il volume al 50%;VL
+Riduci il volume al 30%;VL
+Porta il volume al 70%;VL
+Metti il volume al 40%;VL
+Modifica il volume al 60%;VL
+Regola il volume al 25%;VL
+Cambia il volume al 85%;VL
+Modifica il volume al 15%;VL
+Alza il volume a metà;VL
+Porta il volume al 75%;VL
+Imposta il volume al 35%;VL
+Riduci il volume al 45%;VL
+Cambia il volume al 90%;VL
+Metti il volume al 55%;VL
+Imposta il volume al 80%;VL
+Alza il volume al 65%;VL
+Cambia il volume al 95%;VL
+Regola il volume al 22%;VL
+Riduci il volume al 58%;VL
+Porta il volume al 38%;VL
+Modifica il volume al 77%;VL
+Imposta il volume al 53%;VL
+Cambia il volume al 87%;VL
+Alza il volume al 42%;VL
+Modifica il volume al 67%;VL
+Riduci il volume al 28%;VL
+Porta il volume al 63%;VL
+Metti il volume al 48%;VL
+Imposta il volume al 82%;VL
+Avvia la riproduzione di una canzone;MU
+Metti in play la musica;MU
+Inizia a suonare una traccia;MU
+Riproduci un brano musicale;MU
+Attiva la musica;MU
+Fai partire una canzone;MU
+Play per una melodia;MU
+Imposta la riproduzione di musica;MU
+Metti in play un pezzo musicale;MU
+Avvia una traccia sonora;MU
+Inizia la riproduzione di un brano;MU
+Play per la melodia;MU
+Riproduci del materiale musicale;MU
+Attiva la melodia;MU
+Fai partire la musica;MU
+Metti in riproduzione una canzone;MU
+Play per un pezzo musicale;MU
+Inizia la riproduzione di un brano sonoro;MU
+Riproduci un brano;MU
+Avvia la melodia;MU
+Metti in play del materiale musicale;MU
+Attiva la riproduzione di una traccia;MU
+Fai partire un pezzo musicale;MU
+Play per una canzone;MU
+Inizia a suonare una melodia;MU
+Riproduci la musica;MU
+Avvia la riproduzione di una melodia;MU
+Metti in play un brano;MU
+Play per un pezzo sonoro;MU
+Inizia la riproduzione;MU
+Avvia un conto alla rovescia di 15 minuti e 35 secondi;TM
+Imposta un cronometro per 5 minuti e 45 secondi;TM
+Attiva un temporizzatore di mezz'ora e 10 secondi;TM
+Metti in funzione un contatore di 25 minuti e 15 secondi;TM
+Avvia un timer di 40 minuti e 5 secondi;TM
+Regola un cronometro di un quarto d'ora e 50 secondi;TM
+Avvia un conto alla rovescia per 12 minuti e 35 secondi;TM
+Attiva un temporizzatore di 30 minuti e 25 secondi;TM
+Metti in moto un timer di 8 minuti e 55 secondi;TM
+Imposta un cronometro di 50 minuti e 15 secondi;TM
+Attiva un timer di mezz'ora e 40 secondi;TM
+Avvia un conto alla rovescia di 18 minuti e 25 secondi;TM
+Metti in funzione un temporizzatore di 10 minuti e 50 secondi;TM
+Regola un timer di 22 minuti e 30 secondi;TM
+Attiva un cronometro di 35 minuti e 15 secondi;TM
+Metti in moto un contatore di un quarto d'ora e 5 secondi;TM
+Avvia un temporizzatore di 28 minuti e 50 secondi;TM
+Imposta un timer per 7 minuti e 40 secondi;TM
+Attiva un cronometro di 45 minuti e 20 secondi;TM
+Metti in funzione un conto alla rovescia di 20 minuti e 30 secondi;TM
+Imposta un temporizzatore di 14 minuti e 10 secondi;TM
+Avvia un timer di mezz'ora e 55 secondi;TM
+Metti in moto un cronometro di 10 minuti e 25 secondi;TM
+Attiva un conto alla rovescia di 27 minuti e 15 secondi;TM
+Regola un temporizzatore per 38 minuti e 5 secondi;TM
+Avvia un timer di 5 minuti e 50 secondi;TM
+Metti in funzione un timer di un quarto d'ora e 30 secondi;TM
+Imposta un cronometro di 40 minuti e 20 secondi;TM
+Attiva un contatore per 15 minuti e 45 secondi;TM
+Avvia un temporizzatore di 32 minuti e 10 secondi;TM
+Qual è la tua serie TV preferita?;AL
+Cosa fai quando ti senti ispirato?;AL
+Hai mai partecipato a una maratona?;AL
+Credi nella vita dopo la morte?;AL
+Qual è il tuo genere musicale preferito?;AL
+Cosa pensi della moda sostenibile?;AL
+Preferisci i tramonti o le albe?;AL
+Qual è il tuo superpotere immaginario?;AL
+Cosa ne pensi dei selfie?;AL
+Hai mai provato lo snowboard?;AL
+Cosa vorresti fare se avessi il potere di viaggiare nel tempo?;AL
+Qual è il tuo posto preferito per rilassarti?;AL
+Credi nell'astrologia?;AL
+Cosa fai quando hai bisogno di risolvere un problema?;AL
+Qual è il tuo attore o attrice preferito/a?;AL
+Cosa ne pensi della meditazione?;AL
+Hai mai fatto volontariato?;AL
+Qual è il tuo piatto internazionale preferito?;AL
+Cosa vorresti fare se avessi un giorno libero?;AL
+Preferisci viaggiare in treno o in aereo?;AL
+Cosa pensi della realtà virtuale?;AL
+Hai mai partecipato a un concorso?;AL
+Qual è il tuo fiore preferito?;AL
+Cosa fai quando ti senti stressato/a?;AL
+Credi nei segni del destino?;AL
+Qual è il tuo stile di abbigliamento preferito?;AL
+Cosa ne pensi dei documentari?;AL
+Hai mai scritto un libro?;AL
+Qual è il tuo luogo storico preferito?;AL
+Cosa fai quando ti senti creativo/a?;AL
+Credi nel potere delle pietre preziose?;AL
+Qual è il tuo hobby meno convenzionale?;AL
+Cosa pensi dell'energia rinnovabile?;AL
+Hai mai provato la cucina fusion?;AL
+Qual è la tua bevanda preferita da gustare in una giornata fredda?;AL
+Cosa fai quando vuoi rilassarti dopo una lunga giornata?;AL
+Credi nelle teorie del complotto?;AL
+Qual è la tua meta di viaggio da sogno?;AL
+Cosa ne pensi dei giochi da tavolo moderni?;AL
+Hai mai provato a fare acrobazie?;AL
+Qual è il tuo strumento scientifico preferito?;AL
+Cosa fai quando vuoi impressionare qualcuno?;AL
+Credi nell'effetto delle piante sull'umore?;AL
+Qual è il tuo modo preferito per esprimere creatività?;AL
+Cosa ne pensi delle diete restrittive?;AL
+Hai mai partecipato a una lezione di cucina?;AL
