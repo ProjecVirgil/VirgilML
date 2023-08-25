@@ -1,4 +1,4 @@
-# VirgilML
+# VirgilML (Don't put too much stock in the code now it is very dirty)
 
 ## Introduction 📝
 
