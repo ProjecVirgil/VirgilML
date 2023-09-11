@@ -1,0 +1,88 @@
+
+                
+2023-09-11 10:56:04
+
+Frase originale: Create a 10-second timer    
+Frase processata: create a 10-second timer    
+Risultato SVC: ['TM']
+Risultato Word2Vec: ['TM']                
+Risultato Ensemble model: ['TM']        
+Risultato Forest model: ['TM']     
+
+                                   ---------- REPORT ----------
+ 
+  --- Report svc: ---                                    
+ 
+                   precision    recall  f1-score   support
+
+          EV       0.94      0.99      0.96       178
+         GDS       1.00      1.00      1.00        90
+          MC       0.68      1.00      0.81        77
+          MT       0.97      0.71      0.82        98
+          MU       1.00      0.94      0.97        62
+          NW       0.57      1.00      0.72        30
+          OR       0.91      0.58      0.71        90
+          TM       0.99      0.91      0.95        79
+          VL       0.97      1.00      0.98        30
+
+    accuracy                           0.89       734
+   macro avg       0.89      0.90      0.88       734
+weighted avg       0.92      0.89      0.89       734
+                     
+  
+  --- Report Word2Vec: --- [BEST]
+  
+                   precision    recall  f1-score   support
+
+          EV       0.96      0.99      0.98       178
+         GDS       0.98      1.00      0.99        90
+          MC       0.73      1.00      0.84        77
+          MT       1.00      0.81      0.89        98
+          MU       1.00      0.94      0.97        62
+          NW       0.77      1.00      0.87        30
+          OR       0.86      0.66      0.74        90
+          TM       0.97      0.96      0.97        79
+          VL       1.00      1.00      1.00        30
+
+    accuracy                           0.92       734
+   macro avg       0.92      0.93      0.92       734
+weighted avg       0.93      0.92      0.92       734
+                     
+  
+  --- Report Embed ---                                                                                                                        
+                   precision    recall  f1-score   support
+
+          EV       0.94      0.99      0.97       178
+         GDS       1.00      1.00      1.00        90
+          MC       0.69      1.00      0.81        77
+          MT       0.97      0.61      0.75        98
+          MU       1.00      0.94      0.97        62
+          NW       0.46      1.00      0.63        30
+          OR       0.95      0.59      0.73        90
+          TM       1.00      0.91      0.95        79
+          VL       0.97      1.00      0.98        30
+
+    accuracy                           0.88       734
+   macro avg       0.89      0.89      0.87       734
+weighted avg       0.92      0.88      0.88       734
+      
+     
+   --- Report Forest ---
+                                                                                                                           
+                 precision    recall  f1-score   support
+
+          EV       0.94      0.99      0.96       178
+         GDS       1.00      1.00      1.00        90
+          MC       0.68      1.00      0.81        77
+          MT       0.97      0.71      0.82        98
+          MU       1.00      0.94      0.97        62
+          NW       0.57      1.00      0.72        30
+          OR       0.91      0.58      0.71        90
+          TM       0.99      0.91      0.95        79
+          VL       0.97      1.00      0.98        30
+
+    accuracy                           0.89       734
+   macro avg       0.89      0.90      0.88       734
+weighted avg       0.92      0.89      0.89       734
+                                                                                                                      
+                

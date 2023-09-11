@@ -2,3 +2,4 @@
 /htmlcov
 /__pycache__
 graph_maker
+.venv

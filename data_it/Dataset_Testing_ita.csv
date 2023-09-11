@@ -1,0 +1,907 @@
+Frasi;Contesto
+che ore sono;OR
+che ora è adesso;OR
+mi sai dire che ora segna l'orologio;OR
+mi puoi dire che ore sono al momento;OR
+sapresti dirmi che ora è;OR
+potresti dirmi gentilmente che ore sono;OR
+scusa mi sapresti dire che ore sono;OR
+per favore potresti dirmi che ore segna l'orologio;OR
+avresti la cortesia di dirmi che ore sono;OR
+mi faresti la gentilezza di dirmi che ora è;OR
+scusi potrebbe dirmi che ora segnano le lancette dell'orologio;OR
+mi scusi mi saprebbe dire cortesemente che ore sono;OR
+le sarei grato se mi dicesse che ore segna attualmente l'orologio;OR
+mi farebbe il favore di dirmi che ora è;OR
+la prego mi saprebbe dire con precisione che ore sono;OR
+mi perdoni il disturbo mi potrebbe dire che ore segna l'orologio;OR
+mi scusi avrebbe la cortesia di dirmi che ore sono;OR
+le spiace dirmi che ore segnano le lancette dell'orologio;OR
+quanto manca a mezzogiorno;OR
+fra quanto saranno le 12:00;OR
+mancano molti minuti a mezzogiorno;OR
+a che ora sarà mezzogiorno;OR
+fra quanto è previsto che suonerà mezzogiorno;OR
+sapresti dirmi quanto manca alle 12:00;OR
+potresti dirmi quanti minuti mancano a mezzogiorno;OR
+scusa mi sapresti dire quanto manca a mezzogiorno;OR
+per favore potresti dirmi fra quanto saranno le 12:00;OR
+avresti la cortesia di dirmi quanto manca a mezzogiorno;OR
+mi faresti la gentilezza di dirmi fra quanto sarà mezzogiorno;OR
+scusi potrebbe dirmi quanto manca alle 12:00;OR
+mi scusi mi saprebbe dire cortesemente quanto manca alle 12:00;OR
+le sarei grato se mi dicesse quanto manca a mezzogiorno;OR
+mi farebbe il favore di dirmi fra quanto saranno le 12:00;OR
+la prego mi saprebbe dire con precisione quanto manca a mezzogiorno;OR
+mi perdoni il disturbo mi potrebbe dire fra quanto sarà mezzogiorno;OR
+mi scusi avrebbe la cortesia di dirmi quanto manca alle 12:00;OR
+le spiace dirmi quanto manca alle 12:00;OR
+a che ora saranno le 15:30;OR
+quanto manca alle 15:30 del pomeriggio;OR
+fra quanto saranno le 15:30 del pomeriggio;OR
+manca molto alle 15:30 di oggi pomeriggio;OR
+sapresti dirmi fra quanto saranno le 15:30 odierne;OR
+potresti dirmi quanti minuti mancano alle 15:30 di oggi;OR
+scusa mi sapresti dire quanto manca alle 15:30 di oggi pomeriggio;OR
+per favore potresti dirmi a che ora saranno le 15:30;OR
+avresti la cortesia di dirmi quanto manca alle 15:30;OR
+mi faresti la gentilezza di dirmi fra quanto saranno le 15:30;OR
+scusi potrebbe dirmi quanto manca alle 15:30 del pomeriggio;OR
+mi scusi mi saprebbe dire cortesemente quanto manca alle 15:30 odierne;OR
+le sarei grato se mi dicesse quanto manca alle 15:30;OR
+mi farebbe il favore di dirmi fra quanto saranno le 15:30;OR
+la prego mi saprebbe dire con precisione quanto manca alle 15:30 di oggi;OR
+mi perdoni il disturbo mi potrebbe dire fra quanto saranno le 15:30 odierne;OR
+mi scusi avrebbe la cortesia di dirmi quanto manca alle 15:30;OR
+le spiace dirmi quanto manca alle 15:30 di oggi pomeriggio;OR
+qual è l'orario attuale;OR
+mi puoi dire che ora è;OR
+saresti così gentile da indicarmi l'orologio;OR
+che ore segna il tuo orologio;OR
+potresti comunicarmi l'ora del momento;OR
+vorrei sapere l'orario adesso;OR
+puoi dirmi che ora è secondo te;OR
+che orologio stai mostrando;OR
+qual è l'ora esatta secondo il tuo orologio;OR
+mi puoi dare l'orario attuale;OR
+saresti così gentile da farmi sapere l'ora;OR
+vorrei conoscere l'orario corrente;OR
+potresti indicarmi che ore sono;OR
+puoi comunicarmi l'orario in questo istante;OR
+che ora indica il tuo orologio;OR
+qual è l'orario del tuo orologio;OR
+mi puoi dare l'ora esatta;OR
+saresti così gentile da dirmi l'orologio;OR
+vorrei sapere che ora stiamo segnando;OR
+puoi farmi sapere l'orario attuale;OR
+che orario è secondo te;OR
+qual è l'ora sulla tua lancetta;OR
+potresti comunicarmi che ora è adesso;OR
+mi puoi dire l'orario attuale;OR
+saresti così gentile da dirmi l'ora esatta;OR
+puoi dirmi che ora è secondo il tuo orologio;OR
+che orologio sta indicando l'orario;OR
+qual è l'orario che stai visualizzando;OR
+mi puoi dare l'ora del momento;OR
+che ora è;OR
+puoi dirmi che ore sono;OR
+mi dici l'orario attuale per favore;OR
+qual è l'orario in questo momento;OR
+posso sapere che ora è adesso;OR
+mi mostri l'orologio;OR
+che ora segna l'orologio;OR
+mi indichi l'orario;OR
+potresti farmi vedere l'orario;OR
+mi informi sull'ora del giorno per favore;OR
+che giorno è oggi;GDS
+che giorno è domani;GDS
+che giorno è il 10 agosto 2022;GDS
+che giorno è pasqua quest'anno;GDS
+che giorno è dopodomani;GDS
+che giorno sarà il 15 settembre 2025;GDS
+che giorno è fra due giorni;GDS
+che giorno sarà il 29 febbraio 2024;GDS
+che giorno è il 25 dicembre;GDS
+che giorno è fra tre giorni;GDS
+che giorno sarà il 31 ottobre 2023;GDS
+che giorno è tra quattro giorni;GDS
+che giorno sarà il 2 gennaio 2026;GDS
+che giorno è la prossima settimana di martedì;GDS
+che giorno è tra cinque giorni;GDS
+che giorno sarà il 19 aprile 2028;GDS
+che giorno è dopo il weekend;GDS
+che giorno sarà il 6 agosto 2027;GDS
+che giorno è il primo giorno del prossimo mese;GDS
+che giorno è tra sei giorni;GDS
+che giorno sarà il 14 febbraio 2030;GDS
+che giorno è la settimana prossima di venerdì;GDS
+che giorno sarà il 27 maggio 2029;GDS
+che giorno è tra sette giorni;GDS
+che giorno sarà l'8 marzo 2031;GDS
+che giorno è dopo sette giorni;GDS
+che giorno sarà il 20 luglio 2032;GDS
+che giorno è tra otto giorni;GDS
+che giorno sarà il 3 settembre 2033;GDS
+che giorno è dopo otto giorni;GDS
+che giorno sarà il 25 novembre 2034;GDS
+che giorno è tra nove giorni;GDS
+che giorno sarà il 7 gennaio 2035;GDS
+che giorno è dopo nove giorni;GDS
+che giorno sarà il 18 aprile 2036;GDS
+che giorno è tra dieci giorni;GDS
+che giorno sarà il 30 giugno 2037;GDS
+che giorno è dopo dieci giorni;GDS
+che giorno sarà il 12 agosto 2038;GDS
+che giorno è tra undici giorni;GDS
+che giorno sarà il 23 settembre 2039;GDS
+che giorno è dopo undici giorni;GDS
+che giorno sarà il 4 novembre 2040;GDS
+che giorno è tra dodici giorni;GDS
+che giorno sarà il 16 dicembre 2041;GDS
+che giorno è dopo dodici giorni;GDS
+che giorno sarà il 27 gennaio 2042;GDS
+che giorno è tra tredici giorni;GDS
+che giorno sarà il 10 marzo 2043;GDS
+che giorno è dopo tredici giorni;GDS
+che giorno sarà il 21 aprile 2044;GDS
+che giorno è tra quattordici giorni;GDS
+che giorno sarà il 2 giugno 2045;GDS
+che giorno è dopo quattordici giorni;GDS
+che giorno sarà il 14 luglio 2046;GDS
+che giorno è tra quindici giorni;GDS
+che giorno sarà il 25 agosto 2047;GDS
+che giorno è dopo quindici giorni;GDS
+che giorno sarà il 6 ottobre 2048;GDS
+che giorno è tra sedici giorni;GDS
+che giorno sarà il 17 novembre 2049;GDS
+che giorno è dopo sedici giorni;GDS
+qual è la data che segue dopodomani;GDS
+mi puoi dire che giorno sarà tra due giorni;GDS
+saresti così gentile da indicarmi quale giorno cadrà dopodomani;GDS
+che giorno della settimana è dopo domani;GDS
+qual è la data successiva a dopodomani;GDS
+potresti dirmi quale sarà il giorno tra due giorni;GDS
+vorrei sapere che giorno si avrà dopodomani;GDS
+puoi indicarmi che giorno della settimana seguirà dopodomani;GDS
+che giorno verrà dopo domani;GDS
+qual è il giorno che segue dopodomani;GDS
+mi puoi comunicare che giorno è tra due giorni;GDS
+saresti così gentile da farmi sapere quale giorno verrà dopo domani;GDS
+vorrei sapere che giorno cadrà dopodomani;GDS
+puoi dirmi che giorno della settimana è il 12 dicembre 2023;GDS
+qual è il giorno successivo a dopodomani;GDS
+mi puoi indicare che giorno è il 12 dicembre 2023;GDS
+saresti così gentile da dirmi che giorno è dopo domani;GDS
+che giorno è previsto il 12 dicembre 2023;GDS
+qual è il giorno che segue il 12 dicembre 2023;GDS
+puoi comunicarmi che giorno si avrà dopo domani;GDS
+vorrei sapere quale giorno cadrà il 12 dicembre 2023;GDS
+che giorno della settimana cadrà dopo domani;GDS
+qual è il giorno previsto il 12 dicembre 2023;GDS
+mi puoi dire che giorno verrà dopo domani;GDS
+saresti così gentile da indicarmi che giorno è previsto il 12 dicembre 2023;GDS
+puoi farmi sapere che giorno è il 12 dicembre 2023;GDS
+vorrei sapere che giorno della settimana è dopo domani;GDS
+che giorno è tra due giorni;GDS
+qual è il giorno successivo a il 12 dicembre 2023;GDS
+quanto tempo manca per le 12 e mezza;MC
+puoi dirmi quanto manca alle 12:30;MC
+saresti così gentile da dirmi quanto tempo manca a mezzogiorno e mezzo;MC
+vorrei sapere quanto tempo ci separa dalle 12:30;MC
+che distanza c'è dall'ora di pranzo alle 12 e mezza;MC
+dimmi quanto manca all'intervallo di mezzogiorno e mezzo;MC
+quanto tempo manca al mezzogiorno e trenta;MC
+mi puoi dire quanto ci separa dalle 12:30;MC
+quanto tempo manca alla mezzanotte e trenta;MC
+saresti così gentile da indicarmi quanto manca alle 12:30;MC
+vorrei sapere quanto tempo manca alla metà del giorno e mezzo;MC
+che distanza c'è dall'ora attuale alle 12 e mezza;MC
+quanto manca al 12 agosto 2002;MC
+puoi dirmi quanto tempo manca al 12 agosto 2002;MC
+saresti così gentile da indicarmi quanto tempo ci separa dal 12 agosto 2002;MC
+vorrei sapere quanto tempo manca al 12 agosto 2002;MC
+che distanza c'è tra l'attuale data e il 12 agosto 2002;MC
+dimmi quanto manca al 12 agosto 2002;MC
+quanto tempo manca al 12 agosto 2002 secondo il tuo orologio;MC
+mi puoi dire quanto tempo manca al 12 agosto 2002;MC
+quanto tempo manca al 12 agosto 2002;MC
+saresti così gentile da dirmi quanto tempo ci separa dal 12 agosto 2002;MC
+quanto manca a febbraio;MC
+quanto manca al 10 agosto;MC
+quanto manca al 21 settembre 2034;MC
+quando inizia marzo;MC
+quanto manca al 5 giugno;MC
+fra quanto sarà il 27 luglio 2025;MC
+quando arriva aprile;MC
+quanto manca al 12 ottobre;MC
+fra quanto sarà il 3 novembre 2045;MC
+quando inizia maggio;MC
+quanto manca al 17 settembre;MC
+fra quanto sarà il 29 dicembre 2050;MC
+quando arriva giugno;MC
+quanto manca al 24 ottobre;MC
+fra quanto sarà il 15 gennaio 2033;MC
+quando inizia luglio;MC
+quanto manca al 1 novembre;MC
+fra quanto sarà il 26 febbraio 2040;MC
+quando arriva agosto;MC
+quanto manca al 8 dicembre;MC
+fra quanto sarà il 7 marzo 2048;MC
+quando inizia settembre;MC
+quanto manca al 15 novembre;MC
+fra quanto sarà il 18 aprile 2038;MC
+quando arriva ottobre;MC
+quanto manca al 22 dicembre;MC
+fra quanto sarà il 9 maggio 2046;MC
+quando inizia novembre;MC
+quanto manca al 29 gennaio;MC
+fra quanto sarà il 1 giugno 2044;MC
+quando arriva dicembre;MC
+quanto manca al 5 febbraio;MC
+fra quanto sarà il 12 luglio 2042;MC
+quando inizia gennaio;MC
+quanto manca al 19 marzo;MC
+fra quanto sarà il 26 agosto 2049;MC
+quando arriva febbraio;MC
+quanto manca al 2 aprile;MC
+fra quanto sarà il 9 settembre 2047;MC
+quanto manca al 16 maggio;MC
+fra quanto sarà il 23 ottobre 2043;MC
+quanto manca al 30 giugno;MC
+fra quanto sarà il 7 novembre 2041;MC
+quanto manca al 14 luglio;MC
+fra quanto sarà il 21 dicembre 2048;MC
+quanto manca al 27 agosto;MC
+fra quanto sarà il 4 febbraio 2045;MC
+quanto manca all'11 settembre;MC
+fra quanto sarà il 18 marzo 2042;MC
+quanto manca al 25 ottobre;MC
+fra quanto sarà il 1 maggio 2050;MC
+quanto manca al 8 novembre;MC
+fra quanto sarà il 15 giugno 2047;MC
+fra quanto sarà il 29 luglio 2043;MC
+quanto manca al 5 gennaio;MC
+fra quanto sarà il 12 agosto 2049;MC
+che tempo fa;MT
+che temperatura c'è fuori;MT
+qual è la situazione meteo;MT
+puoi dirmi le condizioni atmosferiche attuali;MT
+mi dici che clima c'è in questo momento;MT
+cosa posso aspettarmi dal meteo di oggi;MT
+vorrei sapere le previsioni del tempo;MT
+qual è il report meteo del giorno;MT
+mi racconti un po' del meteo odierno;MT
+hai informazioni sul meteo di quest'area;MT
+che previsioni ci sono per il clima;MT
+come si presenta il meteo per le prossime ore;MT
+posso avere una panoramica delle condizioni meteorologiche;MT
+c'è qualche novità sul meteo di oggi;MT
+che tipo di clima dobbiamo affrontare;MT
+qual è l'andamento del meteo attualmente;MT
+hai aggiornamenti sulle condizioni esterne;MT
+mi sapresti dire che tempo fa ora;MT
+saresti così gentile da dirmi la temperatura esterna;MT
+c'è qualche cambiamento nel meteo di oggi;MT
+quali sono le previsioni per le prossime giornate;MT
+posso ottenere un resoconto sulle temperature attuali;MT
+che clima ci aspetta nelle prossime ore;MT
+vorrei essere aggiornato sulle condizioni atmosferiche;MT
+mi dici che temperatura c'è all'esterno;MT
+cosa mi puoi dire sulle previsioni meteo;MT
+come si presenta il meteo in questo momento;MT
+che condizioni atmosferiche dobbiamo affrontare;MT
+qual è il bollettino meteo attuale;MT
+hai qualche informazione sulle temperature esterne;MT
+saresti così gentile da fornirmi il resoconto meteo;MT
+mi racconti un po' del clima di oggi;MT
+che previsioni ci sono per il meteo di oggi;MT
+qual è l'andamento delle temperature in questo momento;MT
+cosa possiamo aspettarci dalle condizioni meteo;MT
+puoi darmi un'idea delle previsioni per il clima;MT
+quali sono le attuali condizioni meteo;MT
+mi dici che temperatura fa fuori;MT
+vorrei conoscere le previsioni del tempo per oggi;MT
+come si sta presentando il clima oggi;MT
+qual è il report sul meteo attuale;MT
+mi sapresti dire che tempo fa fuori;MT
+che tipo di clima è previsto per oggi;MT
+posso avere una panoramica delle temperature attuali;MT
+c'è qualche aggiornamento sulle condizioni meteorologiche;MT
+mi puoi aggiornare sul meteo di questa zona;MT
+quali sono le previsioni per le prossime ore;MT
+mi dici la temperatura attuale;MT
+vorrei sapere come si presenta il meteo ora;MT
+che clima è previsto nelle prossime ore;MT
+quali sono le attuali condizioni atmosferiche;MT
+puoi darmi il bollettino meteo per oggi;MT
+c'è qualche novità sulle temperature esterne;MT
+mi racconti un po' del meteo di questa giornata;MT
+che previsioni ci sono per il clima di oggi;MT
+qual è l'andamento meteo in questo istante;MT
+hai informazioni sulle condizioni del tempo;MT
+mi dici la temperatura esterna;MT
+saresti così gentile da darmi un resoconto del meteo;MT
+quali sono le previsioni meteo per oggi;MT
+come si sta presentando il clima in questo momento;MT
+che condizioni atmosferiche ci sono ora;MT
+vorrei sapere che temperature ci sono fuori;MT
+qual è il report delle previsioni meteo;MT
+mi puoi dire che tipo di clima c'è ora;MT
+che clima è previsto per la giornata;MT
+posso avere un'idea delle temperature attuali;MT
+c'è qualche cambiamento nelle condizioni meteo;MT
+mi racconti un po' del meteo attuale;MT
+che previsioni ci sono per il tempo di oggi;MT
+qual è l'andamento delle temperature in queste ore;MT
+come si sta presentando il meteo in queste ore;MT
+qual è il bollettino meteo per la giornata;MT
+mi puoi dire che condizioni atmosferiche ci sono ora;MT
+che tipo di clima è atteso per oggi;MT
+quali sono le previsioni meteo in queste ore;MT
+mi racconti un po' delle temperature odiere;MT
+qual è il report sul meteo di oggi;MT
+puoi darmi un'idea delle condizioni atmosferiche attuali;MT
+c'è qualche novità sulle previsioni meteo;MT
+mi puoi aggiornare sul meteo di questa giornata;MT
+che clima dobbiamo aspettarci per oggi;MT
+quali sono le previsioni meteo per domani;MT
+hai informazioni sulle temperature di questi giorni;MT
+qual è la situazione meteorologica in questo momento;MT
+puoi darmi un aggiornamento sulle condizioni atmosferiche;MT
+saresti così gentile da dirmi che tipo di clima c'è oggi;MT
+vorrei sapere quale tempo fa al momento;MT
+mi puoi dire com'è il meteo oggi;MT
+che tipi di condizioni meteorologiche ci sono adesso;MT
+puoi farmi sapere che temperatura fa fuori;MT
+cosa posso aspettarmi dal clima all'aperto;MT
+che tipo di tempo è presente al di fuori;MT
+quali sono le previsioni climatiche attuali;MT
+potresti indicarmi il clima del giorno;MT
+mi puoi comunicare le condizioni atmosferiche del momento;MT
+che meteo c'è fuori;MT
+qual è la temperatura esterna attuale;MT
+cosa dici delle condizioni meteo in questo istante;MT
+vorrei sapere come si presenta il tempo oggi;MT
+che temperatura è registrata all'esterno;MT
+puoi darmi un resoconto sulle condizioni del tempo;MT
+che tipo di clima abbiamo in queste ore;MT
+quali sono le attuali condizioni meteorologiche;MT
+mi puoi dire che temperatura è là fuori;MT
+qual è l'andamento climatico al momento;MT
+cosa c'è da aspettarsi in termini di meteo oggi;MT
+potresti farmi un'idea del clima attuale;MT
+che tempo fa fuori;MT
+qual è la temperatura esterna in questo istante;MT
+mi puoi comunicare le attuali condizioni del meteo;MT
+come si presenta il clima nel momento presente;MT
+vorrei sapere che temperatura abbiamo oggi;MT
+fammi conoscere le ultime notizie;NW
+puoi dirmi quali sono le novità più recenti;NW
+saresti così gentile da farmi sapere le notizie più aggiornate;NW
+vorrei essere informato sulle ultime notizie;NW
+che tipo di novità ci sono al momento;NW
+dimmi che cosa c'è di nuovo nelle notizie;NW
+puoi condividere le ultime notizie con me;NW
+quali sono gli ultimi sviluppi nelle notizie;NW
+vorrei sapere quali sono gli ultimi avvenimenti;NW
+saresti così gentile da dirmi le ultime notizie;NW
+dimmi cosa è accaduto di recente nelle notizie;NW
+che cosa è successo di nuovo;NW
+quali sono le notizie più fresche;NW
+puoi informarmi sulle ultime novità;NW
+vorrei conoscere gli ultimi eventi nelle notizie;NW
+saresti così gentile da condividere le ultime notizie;NW
+dimmi gli ultimi aggiornamenti;NW
+quali sono le informazioni più recenti;NW
+puoi dirmi che cosa è accaduto di fresco nelle notizie;NW
+vorrei sapere quali sono gli ultimi fatti;NW
+saresti così gentile da fornirmi le ultime notizie;NW
+dimmi le ultime novità;NW
+quali sono le ultime informazioni disponibili;NW
+puoi condividere con me gli ultimi sviluppi nelle notizie;NW
+vorrei essere aggiornato sulle ultime notizie;NW
+saresti così gentile da dirmi quali sono le notizie più recenti;NW
+dimmi gli eventi più nuovi;NW
+quali sono le notizie fresche;NW
+puoi informarmi sulle ultime situazioni;NW
+vorrei sapere le ultime notizie disponibili;NW
+crea un promemoria per marzo 2023;EV
+imposta un avviso per aprile 2023;EV
+metti una sveglia per maggio 2023;EV
+inserisci una notifica per giugno 2023;EV
+fammi un memo per luglio 2023;EV
+ricordami di prenotare le ferie ad agosto 2023;EV
+crea un evento per settembre 2023;EV
+imposta un reminder per ottobre 2023;EV
+metti un promemoria per novembre 2023;EV
+inserisci una notifica per dicembre 2023;EV
+crea una sveglia per gennaio 2024;EV
+ricordami di rinnovare l'assicurazione a febbraio 2024;EV
+imposta un avviso per marzo 2024;EV
+metti un evento per aprile 2024;EV
+inserisci un memo per maggio 2024;EV
+fammi un promemoria per giugno 2024;EV
+ricordami di fare il tagliando auto a luglio 2024;EV
+crea una notifica per agosto 2024;EV
+imposta un reminder per settembre 2024;EV
+metti una sveglia per ottobre 2024;EV
+inserisci un avviso per novembre 2024;EV
+crea un evento per dicembre 2024;EV
+ricordami di rinnovare il passaporto a gennaio 2025;EV
+imposta un memo per febbraio 2025;EV
+metti un promemoria per marzo 2025;EV
+inserisci una notifica per aprile 2025;EV
+fammi un reminder per maggio 2025;EV
+crea una sveglia per giugno 2025;EV
+ricordami di prenotare le vacanze a luglio 2025;EV
+imposta un avviso per agosto 2025;EV
+metti un evento per settembre 2025;EV
+ricordami il 5 aprile di pagare le bollette;EV
+crea un promemoria per il 15 maggio;EV
+imposta un avviso il 25 giugno;EV
+metti una sveglia il 3 luglio;EV
+inserisci una notifica il 12 agosto;EV
+fammi un memo il 22 settembre;EV
+ricordami il 1 ottobre di portare il cane dal veterinario;EV
+crea un evento il 10 novembre;EV
+imposta un reminder il 20 dicembre;EV
+metti un promemoria il 28 gennaio;EV
+inserisci una notifica il 6 febbraio;EV
+crea una sveglia il 17 marzo;EV
+ricordami il 25 aprile di pagare l'assicurazione;EV
+imposta un avviso il 4 maggio;EV
+metti un evento il 13 giugno;EV
+inserisci un memo il 23 luglio;EV
+fammi un promemoria il 31 agosto;EV
+ricordami il 9 settembre di fare il tagliando all'auto;EV
+crea una notifica il 19 ottobre;EV
+imposta un reminder il 27 novembre;EV
+crea un evento nel calendario per domani;EV
+metti un promemoria nell'agenda per la giornata successiva;EV
+imposta un appuntamento nel mio calendario;EV
+vorrei fissare un impegno per domani;EV
+crea un evento per il giorno seguente;EV
+metti un promemoria per la prossima giornata nel mio calendario;EV
+imposta un appuntamento nel calendario;EV
+vorrei fissare un evento per domani;EV
+crea un promemoria per la giornata di domani;EV
+metti un appuntamento nel mio calendario;EV
+imposta un promemoria per il prossimo giorno;EV
+fissa un appuntamento per domani;EV
+crea un evento che ricordi domani;EV
+metti un promemoria nell'agenda per il giorno seguente;EV
+imposta un appuntamento nel calendario per domani;EV
+fissa un evento per la giornata di domani;EV
+crea un promemoria per il giorno successivo;EV
+metti un appuntamento nel mio calendario per domani;EV
+imposta un evento che si attivi domani;EV
+fissa un promemoria per il prossimo giorno;EV
+crea un appuntamento per la giornata successiva;EV
+metti un evento nel mio calendario per domani;EV
+imposta un promemoria che scatti domani;EV
+fissa un appuntamento nel calendario per la prossima giornata;EV
+crea un evento che ricordi il giorno seguente;EV
+metti un promemoria nell'agenda per domani;EV
+imposta un appuntamento che si attivi domani;EV
+fissa un evento per il giorno di domani;EV
+crea un promemoria nel calendario per la giornata successiva;EV
+metti un appuntamento nel mio calendario che ricordi domani;EV
+puoi ricordarmi che domani ho un appuntamento con mario;EV
+fammi un promemoria per non dimenticare la visita medica di dopodomani;EV
+imposta un avviso sul fatto che giovedì devo passare in banca;EV
+mettimi una sveglia per ricordarmi di andare dal parrucchiere venerdì;EV
+creami un memo per non scordare la lezione di tennis di sabato;EV
+attiva un alert sul compleanno di mia madre la prossima settimana;EV
+inserisci un reminder per il pagamento della bolletta entro il 5 del mese;EV
+metti una nota sul ritiro della patente fra 2 settimane;EV
+imposta un promemoria sulla scadenza della carta d'identità tra un mese;EV
+inserisci un avviso per il cambio gomme fra 3 mesi;EV
+crea un memo di verificare la caldaia prima dell'inverno;EV
+metti un alert per controllare i freni dell'auto entro la fine dell'anno;EV
+attiva un reminder per la revisione di marzo;EV
+imposta una nota sul controllo dei punti patente ad aprile;EV
+inserisci un promemoria per pulire le grondaie in primavera;EV
+metti una sveglia per ricordarmi di prenotare le vacanze estive;EV
+crea un memo sul rinnovo dell'assicurazione a luglio;EV
+attiva un avviso per tagliare l'erba del giardino in estate;EV
+inserisci un reminder sul controllo dei termosifoni in autunno;EV
+metti una nota per pulire le finestre di casa in inverno;EV
+imposta un promemoria per organizzare le vacanze di natale;EV
+crea un memo per ricordarmi di fare gli auguri a nonna il 25 dicembre;EV
+attiva un alert sul compleanno di mio figlio il 10 agosto;EV
+inserisci un reminder per l'anniversario di matrimonio del 5 settembre;EV
+metti una nota sul vaccino antinfluenzale ad ottobre;EV
+puoi creare un promemoria per la scadenza del passaporto;EV
+fammi un memo per ricordarmi la festa della mamma;EV
+imposta un avviso per il compleanno del mio migliore amico;EV
+inserisci un reminder sul pagamento del mutuo;EV
+metti una sveglia per l'appuntamento dal dentista;EV
+crea un alert per ricordarmi di saldare la retta dell'asilo;EV
+attiva un promemoria per la data della laurea di mio fratello;EV
+imposta una nota per il vaccino antinfluenzale annuale;EV
+metti un memo sul cambio stagionale dell'armadio;EV
+inserisci un avviso per ricordarmi di prenotare le vacanze;EV
+crea un reminder per il compleanno dei miei genitori;EV
+attiva una sveglia sul pagamento delle tasse universitarie;EV
+metti un promemoria per ricordarmi di ritirare la prescrizione medica;EV
+inserisci una nota per la scadenza della revisione auto;EV
+crea un alert sul controllo della caldaia prima dell'inverno;EV
+attiva un memo per ricordarmi di richiamare l'idraulico;EV
+metti un promemoria per non scordare la visita oculistica;EV
+inserisci un avviso sulla scadenza della patente;EV
+crea un reminder per ricordarmi di comprare un regalo per l'anniversario;EV
+attiva una nota sul controllo del green pass in scadenza;EV
+metti una sveglia per non dimenticare l'appuntamento in comune;EV
+inserisci un promemoria sul compleanno di mio nipote;EV
+crea un alert per ricordarmi della visita dei parenti questo weekend;EV
+attiva un memo sul pagamento del condominio;EV
+metti un avviso per non scordare la prenotazione delle analisi del sangue;EV
+inserisci un reminder per ricordarmi dell'esame universitario;EV
+crea una nota sul controllo dell'impianto elettrico di casa;EV
+attiva un promemoria per la scadenza del bonus energia;EV
+metti una sveglia sul compleanno del mio partner;EV
+inserisci un alert per ricordarmi dell'aperitivo con gli amici questa sera;EV
+crea un memo per non dimenticare di portare fuori la spazzatura;EV
+attiva un reminder per l'incontro con l'avvocato la prossima settimana;EV
+metti un avviso sulla visita dei suoceri il prossimo weekend;EV
+inserisci un promemoria per ricordarmi della lezione di yoga;EV
+crea una nota sul pagamento delle utenze domestiche;EV
+attiva una sveglia per non scordare la scadenza della carta di credito;EV
+metti un alert sul compleanno della mia migliore amica;EV
+inserisci un memo per ricordarmi dell'allenamento in palestra;EV
+crea un promemoria per la scadenza dell'assicurazione auto;EV
+attiva un avviso sul vaccino antinfluenzale annuale;EV
+metti un reminder per non dimenticare la cena con i colleghi;EV
+inserisci una nota sul compleanno di mia sorella;EV
+crea una sveglia per ricordarmi della visita medica di controllo;EV
+attiva un alert per la festa di pensionamento del mio capo;EV
+metti un promemoria sul pagamento delle tasse comunali;EV
+inserisci un avviso per non scordare l'appuntamento dal parrucchiere;EV
+crea un memo sul controllo della caldaia prima dell'inverno;EV
+attiva un reminder per ricordarmi di ritirare le analisi del sangue;EV
+metti una nota sulla scadenza della carta d'identità;EV
+inserisci una sveglia per non dimenticare il compleanno di mia moglie;EV
+crea un alert sul vaccino antinfluenzale annuale;EV
+attiva un promemoria per ricordarmi della lezione di nuoto;EV
+metti un avviso sull'appuntamento con l'idraulico la prossima settimana;EV
+inserisci un memo per non scordare la visita dal dentista;EV
+crea un reminder sul compleanno del mio ex compagno di scuola;EV
+attiva una nota per ricordarmi di portare fuori l'immondizia;EV
+metti una sveglia sulla scadenza dell'assicurazione sulla casa;EV
+inserisci un alert per l'esame universitario di la settimana prossima;EV
+crea un promemoria sul pagamento delle bollette in scadenza;EV
+attiva un avviso per non dimenticare la festa di compleanno a sorpresa;EV
+metti un memo per ricordarmi della visita dall'oculista;EV
+inserisci un reminder sulla data di nascita di mio nipote;EV
+crea una nota per il controllo annuale della caldaia;EV
+attiva una sveglia sul compleanno dei miei suoceri;EV
+metti un promemoria per ricordarmi di portare l'auto dal meccanico;EV
+inserisci un avviso sulla scadenza del passaporto;EV
+crea un alert per non dimenticare la prenotazione delle vacanze estive;EV
+attiva un memo sul pagamento del bollo auto;EV
+metti un reminder per l'appuntamento dal nutrizionista la prossima settimana;EV
+inserisci una nota sul compleanno del mio capo;EV
+crea una sveglia per ricordarmi di ritirare le analisi mediche;EV
+attiva un promemoria sulla visita dall'ottico il mese prossimo;EV
+metti un avviso per non scordare il battesimo di mio nipote;EV
+inserisci un alert sul pagamento delle tasse universitarie;EV
+crea un memo per ricordarmi dell'esame di guida la settimana prossima;EV
+crea un timer di 2 ore e 20 minuti;TM
+metti un timer di 30 secondi;TM
+attiva un timer di 1 ora;TM
+avvia un timer di 5 minuti;TM
+imposta un countdown di 15 secondi;TM
+programma un timer di 3 minuti;TM
+attiva un conto alla rovescia di 1 minuto;TM
+configura un timer di 30 minuti;TM
+crea un conto alla rovescia di 10 secondi;TM
+pianifica un timer di 45 secondi;TM
+avvia un cronometro di 20 minuti;TM
+imposta un conteggio di 5 minuti;TM
+metti una sveglia per 10 ore;TM
+crea un allarme per 1 giorno;TM
+programma un promemoria per 5 giorni;TM
+pianifica un conto alla rovescia di 1 settimana;TM
+configura un timer di 2 ore;TM
+avvia un cronometro di 30 minuti;TM
+imposta una sveglia per 15 minuti;TM
+crea un allarme per 10 secondi;TM
+metti un timer di 20 ore;TM
+attiva un promemoria per 2 giorni;TM
+avvia un conto alla rovescia di 5 ore;TM
+imposta un cronometro di 1 minuto;TM
+programma una sveglia per 30 secondi;TM
+attiva un conteggio di 10 minuti;TM
+configura un allarme per 2 settimane;TM
+crea un promemoria per 1 mese;TM
+pianifica un timer di 5 ore;TM
+avvia un conto alla rovescia di 15 minuti;TM
+imposta una sveglia per 20 secondi;TM
+metti un cronometro di 1 giorno;TM
+crea un allarme per 10 minuti;TM
+programma un promemoria per 2 ore;TM
+pianifica un conto alla rovescia di 30 minuti;TM
+configura un timer di 5 secondi;TM
+avvia un cronometro di 1 settimana;TM
+imposta una sveglia per 2 minuti;TM
+crea un allarme per 20 ore;TM
+metti un timer di 15 secondi;TM
+attiva un promemoria per 10 minuti;TM
+avvia un conto alla rovescia di 1 giorno;TM
+imposta un cronometro di 5 giorni;TM
+programma una sveglia per 2 ore;TM
+attiva un conteggio di 30 minuti;TM
+configura un allarme per 10 secondi;TM
+metti un timer di 5 minuti;TM
+avvia un countdown di 30 secondi;TM
+pianifica una sveglia per 1 ora;TM
+avvia un conto alla rovescia di 15 minuti e 35 secondi;TM
+imposta un cronometro per 5 minuti e 45 secondi;TM
+attiva un temporizzatore di mezz'ora e 10 secondi;TM
+metti in funzione un contatore di 25 minuti e 15 secondi;TM
+avvia un timer di 40 minuti e 5 secondi;TM
+regola un cronometro di un quarto d'ora e 50 secondi;TM
+avvia un conto alla rovescia per 12 minuti e 35 secondi;TM
+attiva un temporizzatore di 30 minuti e 25 secondi;TM
+metti in moto un timer di 8 minuti e 55 secondi;TM
+imposta un cronometro di 50 minuti e 15 secondi;TM
+attiva un timer di mezz'ora e 40 secondi;TM
+avvia un conto alla rovescia di 18 minuti e 25 secondi;TM
+metti in funzione un temporizzatore di 10 minuti e 50 secondi;TM
+regola un timer di 22 minuti e 30 secondi;TM
+attiva un cronometro di 35 minuti e 15 secondi;TM
+metti in moto un contatore di un quarto d'ora e 5 secondi;TM
+avvia un temporizzatore di 28 minuti e 50 secondi;TM
+imposta un timer per 7 minuti e 40 secondi;TM
+attiva un cronometro di 45 minuti e 20 secondi;TM
+metti in funzione un conto alla rovescia di 20 minuti e 30 secondi;TM
+imposta un temporizzatore di 14 minuti e 10 secondi;TM
+avvia un timer di mezz'ora e 55 secondi;TM
+metti in moto un cronometro di 10 minuti e 25 secondi;TM
+attiva un conto alla rovescia di 27 minuti e 15 secondi;TM
+regola un temporizzatore per 38 minuti e 5 secondi;TM
+avvia un timer di 5 minuti e 50 secondi;TM
+metti in funzione un timer di un quarto d'ora e 30 secondi;TM
+imposta un cronometro di 40 minuti e 20 secondi;TM
+attiva un contatore per 15 minuti e 45 secondi;TM
+avvia un temporizzatore di 32 minuti e 10 secondi;TM
+imposta il volume al 20;VL
+alza il volume al 50;VL
+riduci il volume al 30;VL
+porta il volume al 70;VL
+metti il volume al 40;VL
+modifica il volume al 60;VL
+regola il volume al 25;VL
+cambia il volume al 85;VL
+modifica il volume al 15;VL
+alza il volume a metà;VL
+porta il volume al 75;VL
+imposta il volume al 35;VL
+riduci il volume al 45;VL
+cambia il volume al 90;VL
+metti il volume al 55;VL
+imposta il volume al 80;VL
+alza il volume al 65;VL
+cambia il volume al 95;VL
+regola il volume al 22;VL
+riduci il volume al 58;VL
+porta il volume al 38;VL
+modifica il volume al 77;VL
+imposta il volume al 53;VL
+cambia il volume al 87;VL
+alza il volume al 42;VL
+modifica il volume al 67;VL
+riduci il volume al 28;VL
+porta il volume al 63;VL
+metti il volume al 48;VL
+imposta il volume al 82;VL
+avvia il pezzo di rihanna;MU
+inizia la canzone di madonna;MU
+metti il disco di beyoncé;MU
+riproduci l'album di katy perry;MU
+lancia il concerto di bruno mars;MU
+parte il live di billie eilish;MU
+avvia la traccia di dua lipa;MU
+mettimi su the weeknd;MU
+fammi ascoltare post malone;MU
+partenza brano di justin timberlake;MU
+avvia il pezzo di shakira;MU
+inizia la canzone di christina aguilera;MU
+metti il disco di britney spears;MU
+riproduci l'album di lady gaga;MU
+lancia il concerto di rihanna;MU
+parte il live di ariana grande;MU
+avvia la traccia di taylor swift;MU
+mettimi su alicia keys;MU
+fammi ascoltare beyoncé;MU
+partenza brano di adele;MU
+avvia il pezzo di sia;MU
+inizia la canzone di pink;MU
+metti il disco di katy perry;MU
+riproduci l'album di selena gomez;MU
+lancia il concerto di demi lovato;MU
+parte il live di miley cyrus;MU
+avvia la traccia di nicki minaj;MU
+mettimi su cardi b;MU
+fammi ascoltare camila cabello;MU
+partenza brano di dua lipa;MU
+avvia il pezzo di halsey;MU
+inizia la canzone di bebe rexha;MU
+metti il disco di annemarie;MU
+riproduci l'album di ellie goulding;MU
+avvia la riproduzione di una canzone;MU
+metti in play la musica;MU
+inizia a suonare una traccia;MU
+riproduci un brano musicale;MU
+attiva la musica;MU
+fai partire una canzone;MU
+play per una melodia;MU
+imposta la riproduzione di musica;MU
+metti in play un pezzo musicale;MU
+avvia una traccia sonora;MU
+inizia la riproduzione di un brano;MU
+play per la melodia;MU
+riproduci del materiale musicale;MU
+attiva la melodia;MU
+fai partire la musica;MU
+metti in riproduzione una canzone;MU
+play per un pezzo musicale;MU
+inizia la riproduzione di un brano sonoro;MU
+riproduci un brano;MU
+avvia la melodia;MU
+metti in play del materiale musicale;MU
+attiva la riproduzione di una traccia;MU
+fai partire un pezzo musicale;MU
+play per una canzone;MU
+inizia a suonare una melodia;MU
+riproduci la musica;MU
+avvia la riproduzione di una melodia;MU
+metti in play un brano;MU
+play per un pezzo sonoro;MU
+inizia la riproduzione;MU
+qual è la tua serie tv preferita;AL
+cosa fai quando ti senti ispirato;AL
+hai mai partecipato a una maratona;AL
+credi nella vita dopo la morte;AL
+qual è il tuo genere musicale preferito;AL
+cosa pensi della moda sostenibile;AL
+preferisci i tramonti o le albe;AL
+qual è il tuo superpotere immaginario;AL
+cosa ne pensi dei selfie;AL
+hai mai provato lo snowboard;AL
+cosa vorresti fare se avessi il potere di viaggiare nel tempo;AL
+qual è il tuo posto preferito per rilassarti;AL
+credi nell'astrologia;AL
+cosa fai quando hai bisogno di risolvere un problema;AL
+qual è il tuo attore o attrice preferitoa;AL
+cosa ne pensi della meditazione;AL
+hai mai fatto volontariato;AL
+qual è il tuo piatto internazionale preferito;AL
+cosa vorresti fare se avessi un giorno libero;AL
+preferisci viaggiare in treno o in aereo;AL
+cosa pensi della realtà virtuale;AL
+hai mai partecipato a un concorso;AL
+qual è il tuo fiore preferito;AL
+cosa fai quando ti senti stressatoa;AL
+credi nei segni del destino;AL
+qual è il tuo stile di abbigliamento preferito;AL
+cosa ne pensi dei documentari;AL
+hai mai scritto un libro;AL
+qual è il tuo luogo storico preferito;AL
+cosa fai quando ti senti creativoa;AL
+credi nel potere delle pietre preziose;AL
+qual è il tuo hobby meno convenzionale;AL
+cosa pensi dell'energia rinnovabile;AL
+hai mai provato la cucina fusion;AL
+qual è la tua bevanda preferita da gustare in una giornata fredda;AL
+cosa fai quando vuoi rilassarti dopo una lunga giornata;AL
+credi nelle teorie del complotto;AL
+qual è la tua meta di viaggio da sogno;AL
+cosa ne pensi dei giochi da tavolo moderni;AL
+hai mai provato a fare acrobazie;AL
+qual è il tuo strumento scientifico preferito;AL
+cosa fai quando vuoi impressionare qualcuno;AL
+credi nell'effetto delle piante sull'umore;AL
+qual è il tuo modo preferito per esprimere creatività;AL
+cosa ne pensi delle diete restrittive;AL
+hai mai partecipato a una lezione di cucina;AL
+ciao come stai oggi;AL
+mi piace il tuo nuovo taglio di capelli;AL
+hai visto la partita di calcio ieri sera;AL
+che tempo fa oggi dove vivi;AL
+hai qualche consiglio su un buon film da guardare;AL
+cosa hai mangiato a pranzo era buono;AL
+hai già piani per il prossimo weekend;AL
+com'è andata la tua giornata finora;AL
+dimmi un po' qual è il tuo piatto preferito;AL
+che musica ti piace ascoltare quando ti rilassi;AL
+qual è il tuo genere di libri o film preferito;AL
+dove ti piacerebbe andare in vacanza quest'anno;AL
+cosa ne pensi di questa nuova serie tv che è uscita;AL
+hai visto qualche mostra d'arte interessante ultimamente;AL
+che programmi hai per questa sera dopo il lavoroscuola;AL
+cosa fai di solito nel tempo libero per divertirti;AL
+qual è stato il viaggio più bello che hai fatto finora;AL
+c'è qualche hobby che ti piacerebbe iniziare;AL
+dimmi un po' sei mattiniero o nottambulo;AL
+preferisci leggere libri cartacei o ebook perché;AL
+caffè o tè cosa preferisci di solito al mattino;AL
+camminare o fare jogging quale attività fisica ti piace di più;AL
+mare o montagna dove preferiresti passare le vacanze;AL
+qual è l'invenzione moderna che apprezzi di più e perché;AL
+dimmi un po' gatto o cane quale animale domestico preferisci;AL
+film romantico o horror che genere cinematografico ti piace di più;AL
+pizza o sushi qual è il tuo cibo italiano e giapponese preferito;AL
+auto o moto con quale mezzo ti piace viaggiare;AL
+qual è il tuo personaggio storico o famoso preferito e perché;AL
+dimmi un po' sei per il dolce o il salato a fine pasto;AL
+qual è il tuo colore preferito e perché;AL
+inverno o estate qual è la tua stagione preferita dell'anno;AL
+mattina o sera in che parte della giornata ti senti più produttivo;AL
+qual è la tua materia preferita a scuola e perché;AL
+sei per la pianificazione o preferisci improvvisare;AL
+lavoro in team o individuale cosa preferisci;AL
+vestiti eleganti o sportivi che stile preferisci;AL
+dimmi un po' ti piace cucinare o preferisci mangiare fuori;AL
+qual è la tua serie tv o libro preferito in questo momento;AL
+social o realtà cosa preferisci tra interazioni online e di persona;AL
+città o campagna dove ti piacerebbe vivere in futuro;AL
+qual è la qualità che apprezzi di più in un amico;AL
+più testa o cuore nelle decisioni importanti cosa guida le tue scelte;AL
+sei per la tradizione o ami sperimentare cose nuove;AL
+qual è stata la tua materia preferita alle elementari;AL
+ti consideri una persona ottimista o pessimista;AL
+cosa non può assolutamente mancare nella tua valigia quando viaggi;AL
+qual è il tuo posto preferito dove andare a mangiare fuori;AL
+cosa fai per rilassarti e liberare la mente dopo una lunga giornata;AL
+qual è il tuo sogno nel cassetto che speri di realizzare un giorno;AL
+con chi vorresti scambiare la vita per un giorno;AL
+dimmi tre aggettivi che useresti per descriverti;AL
+qual è la cosa più folle che tu abbia mai fatto;AL
+qual è la tua idea per una startup innovativa e di successo;AL
+cosa vorresti cambiare del mondo se ne avessi la possibilità;AL
+qual è la migliore lezione di vita che tu abbia imparato finora;AL
+qual è il tuo motto o mantra preferito;AL
+cosa consiglieresti a un giovane che inizia l'università;AL
+cosa pensi sia più importante: amicizia o amore;AL
+meglio essere leader o parte di un team affiatato cosa preferisci;AL
+se potessi avere un superpotere quale sceglieresti;AL
+che consiglio daresti a te stesso cinque anni fa;AL
+qual è l'obiettivo o traguardo più importante che vuoi realizzare;AL
+qual è la tua più grande passione nella vita;AL
+chi è la persona che più ti ha ispirato e perché;AL
+qual è la tua idea di una vita felice e appagante;AL
+cosa ne pensi davvero delle nuove tecnologie e dei social media;AL
+qual è la cosa che ti rende più orgoglioso di te stesso;AL
+qual è il tuo più grande rimpianto finora;AL
+cosa faresti se improvvisamente diventassi molto ricco;AL
+chi inviteresti a cena vivente o meno per una serata ideale;AL
+qual è la cosa che ancora vorresti fare assolutamente prima di morire;AL
+cosa consigli a chi vuole iniziare a viaggiare in solitario;AL
+quali sono le tre cose che non puoi assolutamente fare a meno nella vita quotidiana;AL
+qual è il tuo posto preferito al mondo e perché;AL
+cosa pensi ti renda una persona interessante;AL
+cosa faresti se avessi un mese di vacanza pagata ovunque nel mondo;AL
+qual è la tua idea per rendere il mondo un posto migliore;AL
+chi sono i tuoi idoli o modelli di riferimento e perché li ammiri;AL
+cosa ne pensi davvero dei reality show in tv ti piacciono;AL
+meglio essere il numero uno in una cosa o bravi in tante cose diverse tu cosa scegli;AL
+qual è il segreto per mantenere vivo un rapporto di coppia a lungo termine secondo te;AL
+cosa consigli a un amicoa che deve affrontare un colloquio di lavoro importante;AL
+se potessi vivere in un'altra epoca storica quale sceglieresti;AL
+città o campagna dove ti piacerebbe vivere e perché;AL
+qual è la cosa che ti rende davvero felice nella vita quotidiana;AL
+come ti immagini tra 10 anni dove ti vedi e cosa fai nella vita futura ideale;AL
+quali sono i tuoi 3 film preferiti di sempre e perché proprio quelli;AL
+dimmi 3 cose di cui non potresti assolutamente fare a meno nella vita;AL
+qual è la lezione più importante che i tuoi genitori ti hanno insegnato;AL
+qual è il tuo più grande sogno ad occhi aperti;AL
+cosa ne pensi davvero dei reality show e talent in tv;AL
+preferisci pianificare tutto o lasciarti sorprendere dagli eventi;AL
+da che cosa trai ispirazione e motivazione nei momenti difficili;AL
+chi è la persona che ti ha dato i consigli migliori finora;AL
+come ti tieni in forma ed energico nella routine quotidiana;AL
+qual è il tuo modo preferito per ricaricarti e recuperare le energie;AL
+che cosa ti rende veramente felice e grato ogni giorno;AL
+qual è il miglior consiglio che daresti a un amico giù di morale;AL
+cosa ne pensi davvero dei bot e dell'intelligenza artificiale;AL
