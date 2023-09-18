@@ -2,14 +2,14 @@
 
 ## INDEX TOPICS
 
-- [Introduction](introduction-)
-- [Important Notes](important-notes-)
-- [Model alternative](model-alternative-)
-- [Datas and Dataset](datas-and-dataset-)
-- [Vectorize](vectorize-)
-- [Grid search](grid-search-)
-- [Let's analyze the results](-let's-analyze-the-results-)
-- [Conclusion](conclusion-)
+- [Introduction](#introduction-)
+- [Important Notes](#important-notes-)
+- [Model alternative](#model-alternative-)
+- [Datas and Dataset](#datas-and-dataset-)
+- [Vectorize](#vectorize-)
+- [Grid search](#grid-search-)
+- [Let's analyze the results](#let's-analyze-the-results-)
+- [Conclusion](#conclusion-)
 
 
 ## Introduction 📝
