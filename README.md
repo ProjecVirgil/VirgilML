@@ -8,7 +8,7 @@
 - [Datas and Dataset](#datas-and-dataset-)
 - [Vectorize](#vectorize-)
 - [Grid search](#grid-search-)
-- [Let's analyze the results](#let's-analyze-the-results-)
+- [Let's analyze the results](#lets-analyze-the-results-)
 - [Conclusion](#conclusion-)
 
 
