@@ -1,4 +1,4 @@
-# VirgilML ** OLD READ ME NOT UPDATED **
+# VirgilML 
 
 ## Introduction 📝
 
@@ -8,74 +8,176 @@ I have created a model based on the SVC (Support Vector Classifier) Machine Lear
 
 I am really young in this field, I have just approached and I have not studied (for now) this subject namely that of model and data analysis but based on what few (but enough for now) data and tests I have done I have tried various algorithms and datasets with various strategies but I am always open to advice and suggestions on the dataset and model.
 
+
 ## Model alternative ✅
-I evaluated and studied various models and alternatives including:
 
-- [SVC](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html): Support Vector Classifier
-- [RFC](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html): Random Forest Classifier
-- [LG](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html): Logistic Regression
-- [Deep Learning](https://www.ibm.com/topics/deep-learning) with neural network based on 3 layer (Embedding,LSTM,Dense) 
+Unlike the first model I created in this new version I wanted to focus in the SVC (Support Vector Classifier) machine learning model but with more alternatives and variables in between including in-depth GridSearch, Various types of Vectorization, Embedding etc....
 
-The library used for the model are [Sk-learn](https://scikit-learn.org/stable/index.html)(SVC,RFC,LG) and [TensorFlow](https://www.tensorflow.org/?hl=it)(Deep Learning)
 
 ## Datas and Dataset 📅
 
-I try various type of dataset and various techniques
-but to write a huge of amount of sentences for what I need is very long and complex, I tried to search online but without success in case someone has available a dataset for my problem let me know....
-Back to us in the various files you can find various types of dataset with very different amounts and data the first version is
+As for the dataset I started from the datasets of the old version of the datasets pero pure so without tokenization, removing stop words and other
+After trying various combinations of data cleaning and processing, I arrived at this winning combination
 
-- **data_old**: Where was my first attempt to write and create a dataset unsuccessfully because the data were few and the questions too generic in this dataset you will not even find the class AL (Other) which is also the most difficult class to manage, in the same folder you will also find a beginning of "strategy" in fact here I started to remove all the words defined stopwords but the amount of data was too little and I decided to start again and go further
-- **data_final**: (Now you will understand why I went to this first and not data_test)
-this dataset was supposed to be the end in fact as you can see it is very neat and understandable with about 1000 sentences so a relatively larger dataset than normal (by my standards) here the removal of stopwords was done by code during the creation of the model and the dataset created here was tested and used mainly for the neural network (believing I had enough data... spoiler no)
-- **data_test:** In the end this was my dataset taken as a reference because then you will see in the tests it turned out to be quite efficient despite initially 
-it had a much smaller amount of data and then grew to about 1800 data (reference to the main csv file i.e. Dataset_Learning/W)
-Here as you can see we have 4 different files: 
-2 files son for learning and 2 for testing in turn one file is not processed and tokenize and the other one is 
-The test file is about 800 data and it is a benchmark that I followed a lot initially but in the end it turned out to be inaccurate in fact I opted for other means
+- Data augmentation via synonyms and shuffle
+- Irrelevant tip removal
+- .lower() on all words
+- duplicate removal
 
-The tool for tokenize and clear from stop word is in the directory creation_dataset
+As for the Italian datasets:
+Each class has about 350 to 600 sentences except for the AL (other) class where it was important to have so much data to differentiate the class
 
-## Now see some Graphs and Tables 📈
+![datasets_it](assets/it/dataset_learn.png)
 
-This is a simple graph to give you an understanding of how important the amount of data is in a machine learning algorithm such as this one
+The English one on the other hand:
+The data is much less this because of the more advanced vetorization model and the fact that the language is better optimized for the given model in fact here the data goes
 
-Algorithm used **SVC**
+![datasets_en](assets/en/datasets_learn.png)
 
-![IMG](/assets/Data_Eff.png)
+The tool for tokenize and clear is in the directory script
 
-Obviously the results,the efficiency and the amount of data changes from algorithm to algorithm but this I think is enough guidance to understand how important the amount of data and the quality
+## Vectorize 🔀
 
-### Let us now turn instead to why I chose SVC as my algorithm.
 
-This table representation of past tests for each algortim with different datasets and different date strategies
 
-| Algorithm  | Tokenize/StopsWord | Dataset  | Testpassed on pytest |
-|------------|--------------------|----------|----------------------|
-| neural network | No      | DF (Data_Final) | 11/31               |
-| neural network | Yes     | DF (Data_Final) | 8/31                |
-| neural network | No      | DT (Data_Test ) | 23/31               |
-| neural network | Yes     | DT (Data_Test ) | 13/31               |
-| SVC            | No      | DF              | 25/31               |
-| SVC            | No      | DT              | 27/31               |
-| SVC            | Yes     | DT              | 29/31               |
-| LG             | No      | DT              | 23/31               |
-| LG             | Yes     | DT              | 28/31               |
-| LG             | No      | DF              | 22/31               |
-| RFC            | No      | DT              | 26/31               |
-| RFC            | Yes     | DT              | 26/31               |
-| RFC            | No      | DF              | 22/31               |
+I have tried various types of vectorisation including the classic TFID up to something even a bit bigger or more complex
 
-As you can see SVC with test dataset and with clean data is the one that basically had the best score and that is mainly what led me to choose this algorithm because despite the small amount of data it manages to cope discretely 
-obviously the neural network I could not test it the best having little data but nothing denies in the future to make an improvement 
+The ones I have tried are 
 
-### Let's analyze the chosen model
+- TFID
+- Word2Vec with google data (I will explain later why I did not use this)
+- Glove2Vec
 
-![IMG](/assets/confused_matrix.png)
-![IMG](/assets/test_train.png)
-![IMG](/assets/CrossValidationSet.png)
+Each one has its pros and cons but mainly my decision was to use TFID for the Italian model and Glove2Vec for the English one because TFID vectorised the Italian sentences efficiently and was the only one that didn't require data beforehand but was more or less global (but also losing a bit of performance). Instead for the English model I chose Glove and not Word because Word2Vec with the data I had was too heavy (3. 6gb) and this was causing major problems from the transfer of the model to the use of ram now virgilio with the English model weighs 470MB and the Italian one 200MB (I think it can be improved even more)... So in the end I chose to use the Glove model
 
-As you can see from this data the model is not so efficient in some classes especially but in reatlity for now it is more than good obviously I will go to improve the dataset and make it more efficient and maybe I will also make some tweaks to some parameters of the model 
+## Grid search 🧱
+
+For those who do not know what grid search is, grid search is a technique used to find the best parameters of a given model by trying various combinations until the best parameters are found Depending on the parameters and cores will depend on the speed of the grid search
+
+In my case I did two grid searches both with 16 cores
+
+The first concerning only the SVC model and TFID vectorisation
+the second always concerning the SVC but combined with the Glove2Vec/Word2Vec vectorisation
+
+In the first case, the combinations were about 57,000 and with 16 cores it took about 16 minutes. In the second case, the combinations were 876,000 (approx.) and again with 16 cores it took about 3.7 hours, but the results in both cases were efficient.
+
+## Let's analyze the results 🏅
+
+### Italian model 🟩⬜🟥
+
+All the italian result is in the file result_it.txt but let's analyze them in detail
+
+Best score:
+
+  **--- Report Embed ---  [BEST]**                                                                                                                      
+                   precision    recall  f1-score   support
+
+          AL       0.84      0.98      0.90       146
+          EV       0.97      0.94      0.95       181
+         GDS       0.98      0.97      0.97        91
+          MC       0.66      0.85      0.74        78
+          MT       0.95      0.92      0.94       113
+          MU       0.92      0.91      0.91        64
+          NW       0.91      0.97      0.94        30
+          OR       0.97      0.62      0.75        94
+          TM       0.97      0.92      0.95        79
+          VL       1.00      1.00      1.00        30
+
+    accuracy                           0.90       906
+    macro avg      0.92      0.91      0.91       906
+    weighted avg   0.92      0.90      0.90       906
+
+Worst score:
+
+  **--- Report Word2Vec: ---**
+  
+                   precision    recall  f1-score   support
+
+          AL       0.63      0.94      0.75       146
+          EV       0.92      0.77      0.84       181
+         GDS       0.93      0.96      0.94        91
+          MC       0.75      0.95      0.84        78
+          MT       0.80      0.64      0.71       113
+          MU       0.86      0.58      0.69        64
+          NW       0.52      0.97      0.67        30
+          OR       0.81      0.45      0.58        94
+          TM       0.97      0.91      0.94        79
+          VL       1.00      1.00      1.00        30
+
+    accuracy                           0.79       906
+    macro avg       0.82      0.82     0.80       906
+    weighted avg    0.82      0.79     0.79       906
+
+
+In the Italian results the model with the best result is just the embed model that as I said several times exploits a kind of meeting point between two different models going then to choose the result together (a kind of collaboration between algorithms) instead because of the little compatibility with the Italian the word2vec model that uses English data and not Italian was the worst (I'm looking for a model compatible with the Italian)
+
+Final ranking:
+
+1) Model Embend
+2) Model SVC standard
+3) Pipeline SVC Word2Vec
+
+
+### English model :gb:
+
+Like the Italian model results there are also English test results that are even more numerous
+
+Best score:
+
+  **--- Report Word2Vec: --- [BEST]**
+  
+                   precision    recall  f1-score   support
+
+          AL       0.94      1.00      0.97       146
+          EV       0.96      0.99      0.98       178
+         GDS       0.98      1.00      0.99        90
+          MC       0.73      1.00      0.84        77
+          MT       1.00      0.73      0.85        98
+          MU       1.00      0.94      0.97        62
+          NW       0.79      1.00      0.88        30
+          OR       0.88      0.66      0.75        90
+          TM       0.97      0.96      0.97        79
+          VL       1.00      1.00      1.00        30
+
+    accuracy                           0.93       880
+    macro avg       0.92      0.93     0.92       880
+    weighted avg    0.93      0.93     0.92       880
+
+
+Worst score:
+
+  **--- Report Forest ---**
+                                                                                                                           
+                 precision    recall  f1-score   support
+
+          AL       0.74      1.00      0.85       146
+          EV       0.91      0.93      0.92       178
+         GDS       0.94      0.92      0.93        90
+          MC       0.67      0.83      0.74        77
+          MT       0.82      0.43      0.56        98
+          MU       0.97      0.94      0.95        62
+          NW       0.56      1.00      0.71        30
+          OR       0.79      0.54      0.64        90
+          TM       1.00      0.78      0.88        79
+          VL       1.00      1.00      1.00        30
+
+    accuracy                            0.83       880
+    macro avg       0.84      0.84      0.82       880
+    weighted avg    0.85      0.83      0.82       880
+
+As we can see the best result was achieved by google word2vec model instead the worst the random forest (I think I used it in the wrong way but that is not the problem) unlike the Italian one here word2vec is very very efficient because of its great compatibility and the enormity of data passed to the vectorization model
+
+Final ranking:
+
+1) Pipeline SVC Word2Vec
+2) SVC standar
+3) Pipeline SVC Glove2Vec
+4) Model Embed
+5) Forest Random Classifier
+
 
 ## Conclusion 🔚
 
-In conclusion as a first approach to this world it could have been worse I managed to build a base to continue and improve the development of the virgil project, I will probably create other models surely better and I will also use them for other tasks always to improve the use and implementation of virgil, Besides I am already experimenting and trying the first tests with the model on VirgilAI
+In the end I managed to achieve my goal of getting models with accuracy score of 90% and also have a compromise with the weight of the models themselves in fact the Italian model weighs about 25MB and the English one 163MB (If I had used the Word2Vec model and not the Glove it would have weighed 3.6GB) to finish the analysis of the models and test the various parameters I faced a study of about a week not counting my first attempt with the old model of which I leave you the documentation [here](README_oldversion.md)...
+
+There will probably be other developments as far as studying the models or testing other strategies so it can be called a kind of preversion of the models that have yet to be tested in the field and in the use of [VirgilioAI](https://github.com/Retr0100/VirgilAI)

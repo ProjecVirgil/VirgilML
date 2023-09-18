@@ -1,13 +1,14 @@
 
                 
-2023-09-11 10:56:04
+2023-09-18 18:12:08
 
 Frase originale: Create a 10-second timer    
 Frase processata: create a 10-second timer    
 Risultato SVC: ['TM']
 Risultato Word2Vec: ['TM']                
 Risultato Ensemble model: ['TM']        
-Risultato Forest model: ['TM']     
+Risultato Forest model: ['TM']  
+Risultato Glove model: ['TM']   
 
                                    ---------- REPORT ----------
  
@@ -15,74 +16,100 @@ Risultato Forest model: ['TM']
  
                    precision    recall  f1-score   support
 
-          EV       0.94      0.99      0.96       178
-         GDS       1.00      1.00      1.00        90
-          MC       0.68      1.00      0.81        77
-          MT       0.97      0.71      0.82        98
+          AL       0.85      1.00      0.92       146
+          EV       0.97      0.98      0.97       178
+         GDS       1.00      0.98      0.99        90
+          MC       0.69      1.00      0.82        77
+          MT       0.96      0.56      0.71        98
           MU       1.00      0.94      0.97        62
-          NW       0.57      1.00      0.72        30
-          OR       0.91      0.58      0.71        90
-          TM       0.99      0.91      0.95        79
-          VL       0.97      1.00      0.98        30
+          NW       0.55      1.00      0.71        30
+          OR       0.96      0.59      0.73        90
+          TM       0.97      0.92      0.95        79
+          VL       1.00      1.00      1.00        30
 
-    accuracy                           0.89       734
-   macro avg       0.89      0.90      0.88       734
-weighted avg       0.92      0.89      0.89       734
+    accuracy                           0.89       880
+   macro avg       0.90      0.90      0.88       880
+weighted avg       0.92      0.89      0.89       880
                      
   
   --- Report Word2Vec: --- [BEST]
   
                    precision    recall  f1-score   support
 
+          AL       0.94      1.00      0.97       146
           EV       0.96      0.99      0.98       178
          GDS       0.98      1.00      0.99        90
           MC       0.73      1.00      0.84        77
-          MT       1.00      0.81      0.89        98
+          MT       1.00      0.73      0.85        98
           MU       1.00      0.94      0.97        62
-          NW       0.77      1.00      0.87        30
-          OR       0.86      0.66      0.74        90
+          NW       0.79      1.00      0.88        30
+          OR       0.88      0.66      0.75        90
           TM       0.97      0.96      0.97        79
           VL       1.00      1.00      1.00        30
 
-    accuracy                           0.92       734
-   macro avg       0.92      0.93      0.92       734
-weighted avg       0.93      0.92      0.92       734
+    accuracy                           0.93       880
+   macro avg       0.92      0.93      0.92       880
+weighted avg       0.93      0.93      0.92       880
                      
   
   --- Report Embed ---                                                                                                                        
                    precision    recall  f1-score   support
 
-          EV       0.94      0.99      0.97       178
-         GDS       1.00      1.00      1.00        90
-          MC       0.69      1.00      0.81        77
-          MT       0.97      0.61      0.75        98
+          AL       0.81      1.00      0.90       146
+          EV       0.96      0.99      0.98       178
+         GDS       1.00      0.94      0.97        90
+          MC       0.69      1.00      0.82        77
+          MT       0.96      0.49      0.65        98
           MU       1.00      0.94      0.97        62
-          NW       0.46      1.00      0.63        30
-          OR       0.95      0.59      0.73        90
+          NW       0.51      1.00      0.67        30
+          OR       0.98      0.57      0.72        90
           TM       1.00      0.91      0.95        79
-          VL       0.97      1.00      0.98        30
+          VL       1.00      1.00      1.00        30
 
-    accuracy                           0.88       734
-   macro avg       0.89      0.89      0.87       734
-weighted avg       0.92      0.88      0.88       734
+    accuracy                           0.88       880
+   macro avg       0.89      0.88      0.86       880
+weighted avg       0.91      0.88      0.87       880
       
      
    --- Report Forest ---
                                                                                                                            
                  precision    recall  f1-score   support
 
-          EV       0.94      0.99      0.96       178
-         GDS       1.00      1.00      1.00        90
-          MC       0.68      1.00      0.81        77
-          MT       0.97      0.71      0.82        98
-          MU       1.00      0.94      0.97        62
-          NW       0.57      1.00      0.72        30
-          OR       0.91      0.58      0.71        90
-          TM       0.99      0.91      0.95        79
-          VL       0.97      1.00      0.98        30
+          AL       0.74      1.00      0.85       146
+          EV       0.91      0.93      0.92       178
+         GDS       0.94      0.92      0.93        90
+          MC       0.67      0.83      0.74        77
+          MT       0.82      0.43      0.56        98
+          MU       0.97      0.94      0.95        62
+          NW       0.56      1.00      0.71        30
+          OR       0.79      0.54      0.64        90
+          TM       1.00      0.78      0.88        79
+          VL       1.00      1.00      1.00        30
 
-    accuracy                           0.89       734
-   macro avg       0.89      0.90      0.88       734
-weighted avg       0.92      0.89      0.89       734
-                                                                                                                      
+    accuracy                           0.83       880
+   macro avg       0.84      0.84      0.82       880
+weighted avg       0.85      0.83      0.82       880
+       
+   
+   
+   --- Report Glove ---
+   
+                 precision    recall  f1-score   support
+
+          AL       0.79      0.98      0.88       146
+          EV       0.97      0.93      0.95       178
+         GDS       0.95      0.98      0.96        90
+          MC       0.73      0.97      0.83        77
+          MT       1.00      0.71      0.83        98
+          MU       0.98      0.97      0.98        62
+          NW       0.72      0.97      0.83        30
+          OR       0.91      0.57      0.70        90
+          TM       0.99      0.95      0.97        79
+          VL       1.00      1.00      1.00        30
+
+    accuracy                           0.89       880
+   macro avg       0.90      0.90      0.89       880
+weighted avg       0.91      0.89      0.89       880
+   
+                                                                                                               
                 
