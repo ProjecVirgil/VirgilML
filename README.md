@@ -1,6 +1,6 @@
-# VirgilML 
+# VirgilML 🧠
 
-## INDEX TOPICS
+## INDEX TOPICS 📖
 
 - [Introduction]()
 - [Important Notes]()
