@@ -2,14 +2,14 @@
 
 ## INDEX TOPICS
 
-- [Introduction]()
-- [Important Notes]()
-- [Model alternative]()
-- [Datas and Dataset]()
-- [Vectorize]()
-- [Grid search]()
-- [Let's analyze the results]()
-- [Conclusion]()
+- [Introduction](introduction-)
+- [Important Notes](important-notes-)
+- [Model alternative](model-alternative-)
+- [Datas and Dataset](datas-and-dataset-)
+- [Vectorize](vectorize-)
+- [Grid search](grid-search-)
+- [Let's analyze the results](-let's-analyze-the-results-)
+- [Conclusion](conclusion-)
 
 
 ## Introduction 📝
