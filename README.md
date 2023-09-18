@@ -1,5 +1,17 @@
 # VirgilML 
 
+## INDEX TOPICS
+
+- [Introduction]()
+- [Important Notes]()
+- [Model alternative]()
+- [Datas and Dataset]()
+- [Vectorize]()
+- [Grid search]()
+- [Let's analyze the results]()
+- [Conclusion]()
+
+
 ## Introduction 📝
 
 I have created a model based on the SVC (Support Vector Classifier) Machine Learning algorithm in which the task is to understand the context of the sentence or command so that successively the various commands or other preliminary instructions can be executed 
