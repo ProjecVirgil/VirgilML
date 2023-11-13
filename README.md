@@ -1,4 +1,4 @@
-# VirgilML 🧠 | Last docs update: 13/11/2023 (day-month-year)
+# VirgilML 🧠 | Last docs update: 13/11/2023 (d/m/y)
 
 ## INDEX TOPICS 📖
 
