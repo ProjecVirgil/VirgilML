@@ -1,4 +1,4 @@
-# VirgilML 🧠
+# VirgilML 🧠 | Last docs update: 13/11/2023 (day-month-year)
 
 ## INDEX TOPICS 📖
 
@@ -193,3 +193,23 @@ Final ranking:
 In the end I managed to achieve my goal of getting models with accuracy score of 90% and also have a compromise with the weight of the models themselves in fact the Italian model weighs about 25MB and the English one 163MB (If I had used the Word2Vec model and not the Glove it would have weighed 3.6GB) to finish the analysis of the models and test the various parameters I faced a study of about a week not counting my first attempt with the old model of which I leave you the documentation [here](README_oldversion.md)...
 
 There will probably be other developments as far as studying the models or testing other strategies so it can be called a kind of preversion of the models that have yet to be tested in the field and in the use of [VirgilioAI](https://github.com/Retr0100/VirgilAI)
+
+## Other
+
+As mentioned above, VirgililAI is part of a larger project that includes an app, a website and others, the links of which are at Project:
+
+### [Website](https://projectvirgil.net)
+
+### [Mobile APP](https://github.com/Retr0100/VirgilApp)
+
+### [VirgilAI](https://github.com/Retr0100/VirgilAI)
+
+## Credits
+
+The project is made by one person and is still in development, I'm looking for someone to give me advice and a hand to continue the project, which I believe is an excellent open source and free alternative to devices like Alexa or Google Home.
+
+### Contact me
+
+For code related issues you can use github directly for other collaborations or alerts write to this email <projectvirgilai@gmail.com>
+
+If you want to support a small developer take a [**special link**](https://www.paypal.me/Retr0jk)
