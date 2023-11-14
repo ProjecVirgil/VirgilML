@@ -2,14 +2,18 @@
 
 ## INDEX TOPICS 📖
 
-- [Introduction](#introduction-)
-- [Important Notes](#important-notes-)
-- [Model alternative](#model-alternative-)
-- [Datas and Dataset](#datas-and-dataset-)
-- [Vectorize](#vectorize-)
-- [Grid search](#grid-search-)
-- [Let's analyze the results](#lets-analyze-the-results-)
-- [Conclusion](#conclusion-)
+- [VirgilML 🧠](#virgilml-)
+  - [INDEX TOPICS 📖](#index-topics-)
+  - [Introduction 📝](#introduction-)
+  - [Important Notes 📋](#important-notes-)
+  - [Model alternative ✅](#model-alternative-)
+  - [Datas and Dataset 📅](#datas-and-dataset-)
+  - [Vectorize 🔀](#vectorize-)
+  - [Grid search 🧱](#grid-search-)
+  - [Let's analyze the results 🏅](#lets-analyze-the-results-)
+    - [Italian model 🟩⬜🟥](#italian-model-)
+    - [English model :gb:](#english-model-gb)
+  - [Conclusion 🔚](#conclusion-)
 
 
 ## Introduction 📝
