@@ -2,7 +2,7 @@
 
 ## INDEX TOPICS 📖
 
-- [VirgilML 🧠](#virgilml-)
+- [VirgilML 🧠 | Last docs update: 13/11/2023 (d/m/y)](#virgilml---last-docs-update-13112023-dmy)
   - [INDEX TOPICS 📖](#index-topics-)
   - [Introduction 📝](#introduction-)
   - [Important Notes 📋](#important-notes-)
@@ -14,21 +14,24 @@
     - [Italian model 🟩⬜🟥](#italian-model-)
     - [English model :gb:](#english-model-gb)
   - [Conclusion 🔚](#conclusion-)
-
+  - [Other](#other)
+    - [Website](#website)
+    - [Mobile APP](#mobile-app)
+    - [VirgilAI](#virgilai)
+  - [Credits](#credits)
+    - [Contact me](#contact-me)
 
 ## Introduction 📝
 
-I have created a model based on the SVC (Support Vector Classifier) Machine Learning algorithm in which the task is to understand the context of the sentence or command so that successively the various commands or other preliminary instructions can be executed 
+I have created a model based on the SVC (Support Vector Classifier) Machine Learning algorithm in which the task is to understand the context of the sentence or command so that successively the various commands or other preliminary instructions can be executed
 
 ## Important Notes 📋
 
 I am really young in this field, I have just approached and I have not studied (for now) this subject namely that of model and data analysis but based on what few (but enough for now) data and tests I have done I have tried various algorithms and datasets with various strategies but I am always open to advice and suggestions on the dataset and model.
 
-
 ## Model alternative ✅
 
 Unlike the first model I created in this new version I wanted to focus in the SVC (Support Vector Classifier) machine learning model but with more alternatives and variables in between including in-depth GridSearch, Various types of Vectorization, Embedding etc....
-
 
 ## Datas and Dataset 📅
 
@@ -54,11 +57,9 @@ The tool for tokenize and clear is in the directory script
 
 ## Vectorize 🔀
 
-
-
 I have tried various types of vectorisation including the classic TFID up to something even a bit bigger or more complex
 
-The ones I have tried are 
+The ones I have tried are
 
 - TFID
 - Word2Vec with google data (I will explain later why I did not use this)
@@ -85,7 +86,7 @@ All the italian result is in the file result_it.txt but let's analyze them in de
 
 Best score:
 
-  **--- Report Embed ---  [BEST]**                                                                                                                      
+  **--- Report Embed ---  [BEST]**
                    precision    recall  f1-score   support
 
           AL       0.84      0.98      0.90       146
@@ -124,7 +125,6 @@ Worst score:
     macro avg       0.82      0.82     0.80       906
     weighted avg    0.82      0.79     0.79       906
 
-
 In the Italian results the model with the best result is just the embed model that as I said several times exploits a kind of meeting point between two different models going then to choose the result together (a kind of collaboration between algorithms) instead because of the little compatibility with the Italian the word2vec model that uses English data and not Italian was the worst (I'm looking for a model compatible with the Italian)
 
 Final ranking:
@@ -132,7 +132,6 @@ Final ranking:
 1) Model Embend
 2) Model SVC standard
 3) Pipeline SVC Word2Vec
-
 
 ### English model :gb:
 
@@ -159,11 +158,10 @@ Best score:
     macro avg       0.92      0.93     0.92       880
     weighted avg    0.93      0.93     0.92       880
 
-
 Worst score:
 
   **--- Report Forest ---**
-                                                                                                                           
+
                  precision    recall  f1-score   support
 
           AL       0.74      1.00      0.85       146
@@ -190,7 +188,6 @@ Final ranking:
 3) Pipeline SVC Glove2Vec
 4) Model Embed
 5) Forest Random Classifier
-
 
 ## Conclusion 🔚
 
