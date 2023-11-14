@@ -1,6 +1,6 @@
 
                 
-2023-09-18 18:18:28     
+2023-10-20 18:44:24     
 
 Frase originale: Ciao questa è una frase italiana    
 Frase processata: ciao questa è una frase italiana    
@@ -53,19 +53,19 @@ weighted avg       0.82      0.79      0.79       906
   --- Report Embed ---  [BEST]                                                                                                                      
                    precision    recall  f1-score   support
 
-          AL       0.84      0.98      0.90       146
+          AL       0.82      0.98      0.89       146
           EV       0.97      0.94      0.95       181
-         GDS       0.98      0.97      0.97        91
+         GDS       0.99      0.97      0.98        91
           MC       0.66      0.85      0.74        78
-          MT       0.95      0.92      0.94       113
+          MT       0.95      0.91      0.93       113
           MU       0.92      0.91      0.91        64
-          NW       0.91      0.97      0.94        30
+          NW       0.90      0.93      0.92        30
           OR       0.97      0.62      0.75        94
           TM       0.97      0.92      0.95        79
           VL       1.00      1.00      1.00        30
 
     accuracy                           0.90       906
-   macro avg       0.92      0.91      0.91       906
-weighted avg       0.92      0.90      0.90       906
+   macro avg       0.92      0.90      0.90       906
+weighted avg       0.91      0.90      0.90       906
                                                                                                                          
                 
