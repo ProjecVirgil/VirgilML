@@ -1,9 +1,6 @@
-# VirgilML 🧠 | Last docs update: 13/11/2023 (d/m/y)
+# VirgilML 🧠 | Last docs update: 27/11/2023 (d/m/y)
 
 ## INDEX TOPICS 📖
-
-- [VirgilML 🧠 | Last docs update: 13/11/2023 (d/m/y)](#virgilml---last-docs-update-13112023-dmy)
-  - [INDEX TOPICS 📖](#index-topics-)
   - [Introduction 📝](#introduction-)
   - [Important Notes 📋](#important-notes-)
   - [Model alternative ✅](#model-alternative-)
