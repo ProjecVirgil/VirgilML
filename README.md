@@ -1,4 +1,10 @@
-# VirgilML 🧠 | Last docs update: 27/11/2023 (d/m/y)
+# VirgilML 🧠 | Last docs update: 2/1/2024 (d/m/y)
+
+
+##  ❗ **DEPRECATED** ❗
+
+The model is very ineffective and needs to be totally redone, but due to lack of data it will not be revived for a long time
+
 
 ## INDEX TOPICS 📖
   - [Introduction 📝](#introduction-)
